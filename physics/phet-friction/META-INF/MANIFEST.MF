@@ -1,0 +1,311 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.0
+Application-Name: PhET Simulation
+Permissions: sandbox
+Created-By: 20.45-b01 (Sun Microsystems Inc.)
+Main-Class: edu.colorado.phet.flashlauncher.FlashLauncher
+Codebase: *
+
+Name: common-strings_pt_BR.xml
+SHA-256-Digest: WVDzjDyk14M9vBy1V2ML1/mnyha0N6U7Zhswqfe7mwk=
+
+Name: friction-strings_eu.xml
+SHA-256-Digest: 9+KGuwpmMM8AX1+MYfM6YwOeHT9gyw0toEcPtDjW/XE=
+
+Name: friction-strings_lv.xml
+SHA-256-Digest: bx55DU8GOdAuqYoZ3Z1Mn8QQtl+UsDFEUNILji/jEtg=
+
+Name: friction-strings_kn.xml
+SHA-256-Digest: AvNcn2JEYccs9ifwzSJEkV9uLZJ8BThTjiL3BAXyuho=
+
+Name: friction-strings_in.xml
+SHA-256-Digest: zlUhCzDVUDPqNyLPa6p5FeMboRp5G+bG38cN5UDr+qg=
+
+Name: friction-strings_cs.xml
+SHA-256-Digest: huKQoKguVDafo4nf89KWfjKkfWoNFPxqlI0eMYdEzqY=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser$Annotation
+ .class
+SHA-256-Digest: EdoplQ0d81UMByP2boL3ZzzZudPwTrbD9p1RYFTGOz0=
+
+Name: friction-strings_mr.xml
+SHA-256-Digest: SNWMJZgoAZBs+56RvwVUFH4ETCaAQhT4Muh7qBHMLss=
+
+Name: common-strings_sr.xml
+SHA-256-Digest: brkFxP5p/b9twznNA1Pr0dLZpGCuKrihuYuyu+PJPqk=
+
+Name: common-strings_ka.xml
+SHA-256-Digest: zCkjDnShotx3+uw9mOt6gB2dN/3HksE6vcs2ZU1q/XE=
+
+Name: friction-strings_km.xml
+SHA-256-Digest: ALk5rNna4T1+7jmWdJgEQC3WR5/8PL+c6o5QxfA3ay4=
+
+Name: image002.gif
+SHA-256-Digest: R4j47oBa4OVjeN3TKqQ8G/4KEWHkAbYCTe9+4eoUQTs=
+
+Name: simulation.properties
+SHA-256-Digest: QisqLMFetD5kAzkYkla1VH/OQSxIZeLMkV+FhHCU0bQ=
+
+Name: friction-strings_sk.xml
+SHA-256-Digest: /fxnlR70eynzpm5UItC4NQxaSBRxPMBY5rDwH/yxJfc=
+
+Name: common-strings_ko.xml
+SHA-256-Digest: 8BI7NOWTdz1OyU+1vPiCviCvXdeVBYGrOtGPRaPrYgs=
+
+Name: friction-strings_es.xml
+SHA-256-Digest: Xouk+c+3rUEZT0f7EGwh01RjWapcChBJbWHkxB6AEI4=
+
+Name: common-strings_sk.xml
+SHA-256-Digest: BSxVwQ2FUl5eiPLblqC3VRFqleiZiM46+MBQTA4PZBM=
+
+Name: friction.swf
+SHA-256-Digest: kfS3krbeRv9dFaS0/Ud7QqQ7FeIRKKEI0IeCHKp8Lxw=
+
+Name: common-strings_hu.xml
+SHA-256-Digest: Un3rcNkcX8F4xQ+W8nwF28+7v+7IaqhyMouJDOayHUo=
+
+Name: friction-strings_bs.xml
+SHA-256-Digest: BfsQpEh5Hb1l/GRQ6kiC5oxsYqO5MYCMQpn7JW4bkXw=
+
+Name: common-strings_ar_SA.xml
+SHA-256-Digest: XR5L/LwMRoCwb84FHu++CIhyngXTz49oPumu0OMNG3U=
+
+Name: common-strings_lv.xml
+SHA-256-Digest: HcYhQhUT/qRADPXd/X1qCQlEkzRbbX5oOzqfs8Wwf3k=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$1.class
+SHA-256-Digest: BaZisNe1mc03ZgOjNHP3NIsMghWpaoL74o6elwM1/gU=
+
+Name: common-strings_iw.xml
+SHA-256-Digest: i7+A9Y06G6R+jux36CyWOMtH/ZROeyEOX/1ekt9wDv8=
+
+Name: image001.gif
+SHA-256-Digest: WCAwAMNBviNuwuFqwbXat6u7UL+C4aoHQIeoLTS8gGQ=
+
+Name: software-agreement.properties
+SHA-256-Digest: fNGCIOeebjnBUVezlOqAL8sDO1UGjpnRqrqDpQKmyOc=
+
+Name: friction-strings_en.xml
+SHA-256-Digest: w2k2/LMpfoJRK9Juzs79UnQS8TW7yuUgq8A4RLRTtV0=
+
+Name: friction.properties
+SHA-256-Digest: vxMwY17zCAOiVYD541AghxT3T0uNZXGsxbI8rN7JuGo=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$2.class
+SHA-256-Digest: 9447VmYAj5YE0ESjexvl0xhxjP33A4kP0gGAzPiJeJg=
+
+Name: friction-strings_ko.xml
+SHA-256-Digest: /Hy0q2UI7JN/ovJy8YwNEm16G7ttWllMy1jYlvzbq4k=
+
+Name: friction-strings_pl.xml
+SHA-256-Digest: 4MnuUS8WpvonuSjNTvv2Yt2n83UCC87regbTVL1sxmg=
+
+Name: friction-strings_da.xml
+SHA-256-Digest: Ch7Z3W11kNjz01E3QcvNfVEhQgaA6O5HRu6fU3PPFX4=
+
+Name: friction-strings_it.xml
+SHA-256-Digest: l8kKUoPdNoDJ9nqYK+z3aiUfnYnaahaMaK6/Ys/cW6w=
+
+Name: friction-strings_hu.xml
+SHA-256-Digest: T6BljaICrSZeepWT1+sWvMnbO7CU9zwKZ9+xbN1hQgE=
+
+Name: friction-strings_sr.xml
+SHA-256-Digest: I3kVxBFov2JzsGRuEHv2ckYpHNUxBk1y7m8XrQ8xKBM=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils$1.class
+SHA-256-Digest: DQ9T8PkcgNzt71PP7ez8XGy1rhVAUhmlDpX+9sKmBXY=
+
+Name: common-strings_eu.xml
+SHA-256-Digest: LZVL+UPBkB0cm2vWxxoLR1GVyoYJ+5cu9cx88wNYFr4=
+
+Name: common-strings_en.xml
+SHA-256-Digest: xdN6B4FRAPGJpo0VLDMDJMyW/T0jMrXs4kjsG17N9t4=
+
+Name: friction-strings_ar_SA.xml
+SHA-256-Digest: SvB2gf07NtyRG+x1Y0+LzSOkY1OM0sR4lIIVg/103fY=
+
+Name: common-strings_sl.xml
+SHA-256-Digest: 9pzpj0zA/jfQurvhYWyCuYYUdUuBSvU3IAcK6BvaLjI=
+
+Name: common-strings_fr.xml
+SHA-256-Digest: c1V427/ORfXkp7wS8yudy2Wsluszvr0Xam/sfpCOkbA=
+
+Name: friction-strings_ja.xml
+SHA-256-Digest: E95T+kJaMzMrJ9s2W6eqlyL5PRBuWyvUWG9dtpfd3Og=
+
+Name: friction-strings_kk.xml
+SHA-256-Digest: s/dztLoPgQfVJUrdQpWAJ4XlNfD4njpLLA+XYyCxrX0=
+
+Name: credits.txt
+SHA-256-Digest: 3koVVKxZDfWL92/37PbCLzMBv589x6+bFKgCz+b+Sds=
+
+Name: flash-launcher/contrib-licenses/license-info.txt
+SHA-256-Digest: 3wwyEN2M0JDMMI9BqotN038/yiAeTtrYb7yU9cBylvQ=
+
+Name: edu/colorado/phet/flashlauncher/FlashHTML.class
+SHA-256-Digest: g6Sz4OHq2aYpMJMzJoj5vxRTuY0tHyQ/n2HSpUznzJA=
+
+Name: common-strings_es_CO.xml
+SHA-256-Digest: dfeAVpKXr0y1H/5mxZNqdqjuAHK7zWfDuxtciuBykPs=
+
+Name: common-strings_zh_CN.xml
+SHA-256-Digest: 830ArJc6npgiKm+VS3P3yhHkuHaJp+eYDsT4DAllR80=
+
+Name: common-strings_vi.xml
+SHA-256-Digest: 9wNPdktdsp5NZd9kT9vxDmIjub+BMtXSwzW7qtVDP4Y=
+
+Name: common-strings_el.xml
+SHA-256-Digest: /PeFJkgQ6lpWnmVyEvYakVVuArIZluqWW9Ns3o6urac=
+
+Name: friction-strings_th.xml
+SHA-256-Digest: YWZfhoa+9NBpZkSr+174txZx/m3VzW3QMN5J80sC9T8=
+
+Name: common-strings_tr.xml
+SHA-256-Digest: 9HDfCUILexflkATn/u7JTouLF4uflpkOEGsBJRliyMQ=
+
+Name: get_flash.jpg
+SHA-256-Digest: VEdQQFhpeP8AKZuOOHreX9lHOEQWo80Jzds77kzSJ9Q=
+
+Name: edu/colorado/phet/flashlauncher/FlashLauncher.class
+SHA-256-Digest: Vfry1gqpwMquwmyOUgUsir0byy7/eqnodlv7bN90q/0=
+
+Name: friction-strings_gl.xml
+SHA-256-Digest: nLH4wYtzSfTYWFf64egKYQ/6NKTM2sQErqO5pYO3hoM=
+
+Name: common-strings_fi.xml
+SHA-256-Digest: tXoFxP4I+hoIsfdyVaJfcNvnuZLfZSlRY7bi34nOmws=
+
+Name: friction-strings_mk.xml
+SHA-256-Digest: RXcTD9ittLJefGaCqszs4mI58jrQcSHDK1u+jlFoi5k=
+
+Name: friction-strings_fi.xml
+SHA-256-Digest: CtoYs+4xginlVdxKyVELGhU5osObI13uBj63pDZ7B+4=
+
+Name: friction-strings_sv.xml
+SHA-256-Digest: LnO73/TP5CjrfNa5AdQmYObYi1HHW0PvoC/RQbnQ7gQ=
+
+Name: common-strings_ru.xml
+SHA-256-Digest: PWUkAv+oyT7NX7N56H9Zx2dax3oBjQMb4HBRTEIx9oA=
+
+Name: common-strings_ar.xml
+SHA-256-Digest: ygG4z+lwYSPuEqB2grQXvxeBN3turMRQMNmzsrx+JBk=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$LocalBas
+ icService.class
+SHA-256-Digest: tKqIv+ZZ3ONxMwQ8wSLIC9ALMk0Vs80Qqu/31d/cDeQ=
+
+Name: friction-strings_fr.xml
+SHA-256-Digest: zCVRETeLiuXlFS+HYH0ZTHtHl91926YMrR7GorZL8ZQ=
+
+Name: friction-strings_zh_TW.xml
+SHA-256-Digest: CWC/AtxpwEf5bPxAL4QHFZY8ocy63hn57StjbGnXagE=
+
+Name: edu/colorado/phet/flashlauncher/util/SimulationProperties.class
+SHA-256-Digest: esCnQqPOWW6UNKyHNNhly5qr1L8cF+cKg1U+nKm/3/Q=
+
+Name: software-agreement.htm
+SHA-256-Digest: JgsWb8+jcF/07qnLVqEAUquqt+dJLGb62K5vH4KYp0s=
+
+Name: edu/colorado/phet/flashlauncher/util/XMLUtils.class
+SHA-256-Digest: exD86OGtRADoks5InjPougl9Zngyu+1AoHojBSdiXh8=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser.class
+SHA-256-Digest: LU9rvDcfiPVZiS+zrf9pgNrueVALrMX61gzUl7anPzQ=
+
+Name: friction-strings_iw.xml
+SHA-256-Digest: P28n+z0aANG0Uk9vA1pc6EaCOk728gMVypgAZDmhY44=
+
+Name: flash-template.html
+SHA-256-Digest: XmGa51iVjJnFsS7qE8ixfEV1hRDjzOyZXj+yuiUC3ao=
+
+Name: common-strings_pt.xml
+SHA-256-Digest: c/fW7j+iD5eTVoD1PN8sbp34YKow34jSBbfz9l90XmU=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils.class
+SHA-256-Digest: jgd73YAAMfj33doq7Q1VLRX0NBImm0+dQaWNCHU3wZU=
+
+Name: friction-strings_tr.xml
+SHA-256-Digest: Xo3qG7c6ujU7vDwyMiZo66SHE/l6imbMUPniipfZfPU=
+
+Name: friction-strings_hr.xml
+SHA-256-Digest: PB4WfH4tQiRMDEs1pqanaF6esMbehSNGgYHIXi7gvJg=
+
+Name: common-strings_mk.xml
+SHA-256-Digest: t4Chj4/jtwtcSeBNFYP+R7zEQ9Ox7aUYg5k7dpbEkB4=
+
+Name: common-strings_nb.xml
+SHA-256-Digest: eqvSEkJuvczv3xp1WFj2EKGtw0b/16jxW1hYJvazHOw=
+
+Name: common-strings_zh_TW.xml
+SHA-256-Digest: 9WAi6VC1X/doAytD28jUB7KkJths+SD8FkuSrYsYuDw=
+
+Name: friction-strings_nl.xml
+SHA-256-Digest: uc2/BDkoaPnTzdl39D4r0IFXbOn6OL6t2BGdxb7SFsI=
+
+Name: common-strings_es.xml
+SHA-256-Digest: gIJu4i/i47EfBDeBPt/2YQusTCdMv8xMwX56TssmHDE=
+
+Name: friction-strings_tk.xml
+SHA-256-Digest: l5UD4vK02GYM8GzuWThK9e0wobEqaXJNEh+hgbU/jCo=
+
+Name: friction-strings_sq.xml
+SHA-256-Digest: ZiwHEdkuEx5cnsWPDjZKpGMs0Ib9EjyaJoUtKIq7Ha8=
+
+Name: friction-strings_uk.xml
+SHA-256-Digest: 7PuASwTXb1HDAoKbGteHe9PsxNOE8c9pDuUt7Wx06dQ=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker.class
+SHA-256-Digest: skRmWxBkm0YYg0+1DmYnTHWoHEFmCIw970saQeKf9GY=
+
+Name: friction-strings_fa.xml
+SHA-256-Digest: ENZmy0ZU1sXbUvUqPU6q0JoRmh8/f14/OXVZTXdUBMc=
+
+Name: friction-strings_zh_CN.xml
+SHA-256-Digest: LX0LIo9NgnAejVO/WiVcuW3xsap2FJPodFyu8r0Y4pM=
+
+Name: friction-strings_ku_TR.xml
+SHA-256-Digest: 4lAjpuDhM8zwmrhnrO7PtY3dHCyuaWDOufetaZMuhwc=
+
+Name: friction-strings_pt_BR.xml
+SHA-256-Digest: T/WewH4Otce3wimxwKvUmVm/834TRG52qqLR0QAPOjc=
+
+Name: edu/colorado/phet/flashlauncher/util/BareBonesBrowserLaunch.clas
+ s
+SHA-256-Digest: aXMOjBNAz5C0O9QgOrICyU99CrCTEGgZtC686nLWx7Q=
+
+Name: friction-strings_pt.xml
+SHA-256-Digest: awCGEeSFaxnxNLYM5GvbBwrIaLUqVzbl3DMs9PihveI=
+
+Name: friction-strings_et.xml
+SHA-256-Digest: VMdM+tS/JNWIJZfnEc7y/iXUAr3aB9HA0Kkz3uYHRWo=
+
+Name: friction-strings_de.xml
+SHA-256-Digest: KeZp/FYHg7YcW+2lDvfxmjc5smgtXNfiCcfM0g022xI=
+
+Name: friction-strings_ar.xml
+SHA-256-Digest: SvB2gf07NtyRG+x1Y0+LzSOkY1OM0sR4lIIVg/103fY=
+
+Name: friction-strings_el.xml
+SHA-256-Digest: 80DPVF8SGY7Dt4pMQqeTN7UhTJUcs1WnIqQGTktmi3Y=
+
+Name: common-strings_hr.xml
+SHA-256-Digest: rTXlgtdNT/PZgSsW0EU+I5+uOPRnm94ZJGG5ibE1dJ4=
+
+Name: friction-strings_vi.xml
+SHA-256-Digest: TZN/VWrbQP44UHUB9axBa0wLwuIFEhbv/wIXFfQEONM=
+
+Name: friction-strings_mn.xml
+SHA-256-Digest: cfooyFimIZnuE++PMI0frbM1Faj48ZPvm42RVY1ykiM=
+
+Name: friction-strings_ru.xml
+SHA-256-Digest: GwV27OJkver/foaKdAbLuprapsO7IRVbpYInowhFWVA=
+
+Name: friction-strings_ta.xml
+SHA-256-Digest: xGSfhCwt9cpUzTY38uxViM3P5q5cO947nlkNTttwS3Y=
+
+Name: friction-strings_es_PE.xml
+SHA-256-Digest: iTz9+3DrktHvfH2Sw2CAJHRunDvHFIBOVPhoyIN/DXc=
+
+Name: common-strings_ro.xml
+SHA-256-Digest: Ua3LeTDU0+RUMcqu1S0qsFoHcNZGFIIzaQszcQxqYuY=
+

@@ -1,0 +1,311 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.0
+Application-Name: PhET Simulation
+Permissions: sandbox
+Created-By: 20.45-b01 (Sun Microsystems Inc.)
+Main-Class: edu.colorado.phet.flashlauncher.FlashLauncher
+Codebase: *
+
+Name: common-strings_pt_BR.xml
+SHA-256-Digest: WVDzjDyk14M9vBy1V2ML1/mnyha0N6U7Zhswqfe7mwk=
+
+Name: projectile-motion-strings_fa.xml
+SHA-256-Digest: vUE+o12migEz7b9Ob2TFdj8H9Jh92h/PP66/kmPLlO8=
+
+Name: projectile-motion-strings_en.xml
+SHA-256-Digest: 8C/N5PxPsl4J9G/Vopksdb4BRkjD36jYsrrz4Sc4WkQ=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser$Annotation
+ .class
+SHA-256-Digest: EdoplQ0d81UMByP2boL3ZzzZudPwTrbD9p1RYFTGOz0=
+
+Name: projectile-motion-strings_sv.xml
+SHA-256-Digest: OPpiU/TSkuaKlU+IOo+PtBTgL+/zmbIQIM9AKmUHDfA=
+
+Name: common-strings_sr.xml
+SHA-256-Digest: brkFxP5p/b9twznNA1Pr0dLZpGCuKrihuYuyu+PJPqk=
+
+Name: common-strings_ka.xml
+SHA-256-Digest: zCkjDnShotx3+uw9mOt6gB2dN/3HksE6vcs2ZU1q/XE=
+
+Name: projectile-motion-strings_bn.xml
+SHA-256-Digest: xE0kMpGPW1yZos587jBQcbsnhS2l6kx54Uv08Ja6HOI=
+
+Name: simulation.properties
+SHA-256-Digest: ftb4YLDe3K5FvuKeuWxYjC19Oy9bWkTtExOgRdAstOs=
+
+Name: image002.gif
+SHA-256-Digest: R4j47oBa4OVjeN3TKqQ8G/4KEWHkAbYCTe9+4eoUQTs=
+
+Name: common-strings_ko.xml
+SHA-256-Digest: 8BI7NOWTdz1OyU+1vPiCviCvXdeVBYGrOtGPRaPrYgs=
+
+Name: common-strings_sk.xml
+SHA-256-Digest: BSxVwQ2FUl5eiPLblqC3VRFqleiZiM46+MBQTA4PZBM=
+
+Name: projectile-motion-strings_kn.xml
+SHA-256-Digest: HDjHr4o1OXEJ3z7sy2faqFo8ujDD6pCRctFpEWPo5Xg=
+
+Name: common-strings_hu.xml
+SHA-256-Digest: Un3rcNkcX8F4xQ+W8nwF28+7v+7IaqhyMouJDOayHUo=
+
+Name: projectile-motion-strings_bs.xml
+SHA-256-Digest: az4RfrDwbYSEhpyjCpTzUtiUuX5KuMaibHRwjMsgb2g=
+
+Name: common-strings_ar_SA.xml
+SHA-256-Digest: XR5L/LwMRoCwb84FHu++CIhyngXTz49oPumu0OMNG3U=
+
+Name: projectile-motion-strings_lt.xml
+SHA-256-Digest: OhllhnJyy3WZlvVQ4lbAkQp1TDT4/cPdmHCb/086x4g=
+
+Name: common-strings_lv.xml
+SHA-256-Digest: HcYhQhUT/qRADPXd/X1qCQlEkzRbbX5oOzqfs8Wwf3k=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$1.class
+SHA-256-Digest: BaZisNe1mc03ZgOjNHP3NIsMghWpaoL74o6elwM1/gU=
+
+Name: projectile-motion-strings_gl.xml
+SHA-256-Digest: kd9gJNX6jke7I22f4qvOU0y75kXlcegO0DchdlnIx08=
+
+Name: common-strings_iw.xml
+SHA-256-Digest: i7+A9Y06G6R+jux36CyWOMtH/ZROeyEOX/1ekt9wDv8=
+
+Name: image001.gif
+SHA-256-Digest: WCAwAMNBviNuwuFqwbXat6u7UL+C4aoHQIeoLTS8gGQ=
+
+Name: software-agreement.properties
+SHA-256-Digest: fNGCIOeebjnBUVezlOqAL8sDO1UGjpnRqrqDpQKmyOc=
+
+Name: projectile-motion-strings_ar.xml
+SHA-256-Digest: 2SFuFnMa8gMCJoEKL4IRt36FfJXe9hVEA8d4KY9Yolw=
+
+Name: projectile-motion-strings_kk.xml
+SHA-256-Digest: hVvOIpxBwpowwqeaXCs9IEi67XI4OK7KunXrbt2VlZM=
+
+Name: projectile-motion-strings_ar_SA.xml
+SHA-256-Digest: KnHfSDs2Xp8zNhVdSrjKV/gZuRhbHRdXcfQjp4jQf7A=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$2.class
+SHA-256-Digest: 9447VmYAj5YE0ESjexvl0xhxjP33A4kP0gGAzPiJeJg=
+
+Name: projectile-motion-strings_pt_BR.xml
+SHA-256-Digest: Vtj3DOsXKYHxIRjUW6pcuthWF1iO6B5eFYPPnaFjUsw=
+
+Name: projectile-motion.properties
+SHA-256-Digest: MWW5jkb4zjg1vfbRp79QCbLPFqhVmBWAao05Kdm3P7M=
+
+Name: projectile-motion-strings_da.xml
+SHA-256-Digest: XvTyoqFRr6v+V9pWO8RQnOpRlpb6l3ejPVLkUa23Ahg=
+
+Name: projectile-motion-strings_es_PE.xml
+SHA-256-Digest: mBIcr+4zXtx4UlfaDJj9+FnZ1xSVSRlT01/mGjEWXIs=
+
+Name: projectile-motion-strings_ru.xml
+SHA-256-Digest: QpI+zJPXeVH9ZN6DSUTpE/8Poag6lG/OvfPGssv/Njg=
+
+Name: projectile-motion-strings_sk.xml
+SHA-256-Digest: gC6cdvyC/UHqrfKJMryB7eTQd6md7dfXggDBmacNZ74=
+
+Name: projectile-motion-strings_tr.xml
+SHA-256-Digest: c5aT3f+lX2jW1BDLgdJycY1c+9B7vlHg5S8i3A6Z0o4=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils$1.class
+SHA-256-Digest: DQ9T8PkcgNzt71PP7ez8XGy1rhVAUhmlDpX+9sKmBXY=
+
+Name: projectile-motion-strings_th.xml
+SHA-256-Digest: qlNHXYaVSa4K+E39AoINKJRHPwzUoVPEhi0bmprfjuU=
+
+Name: common-strings_eu.xml
+SHA-256-Digest: LZVL+UPBkB0cm2vWxxoLR1GVyoYJ+5cu9cx88wNYFr4=
+
+Name: projectile-motion-strings_de.xml
+SHA-256-Digest: iXD6Xo1KJA/0WD65bqvJ6hXOxz0aRKOhpBkSWIeFCQ4=
+
+Name: common-strings_en.xml
+SHA-256-Digest: xdN6B4FRAPGJpo0VLDMDJMyW/T0jMrXs4kjsG17N9t4=
+
+Name: common-strings_sl.xml
+SHA-256-Digest: 9pzpj0zA/jfQurvhYWyCuYYUdUuBSvU3IAcK6BvaLjI=
+
+Name: projectile-motion-strings_fr.xml
+SHA-256-Digest: f7Cg+ovM2a62RpuE6lMhT0UeK59QwzJcp83Q4s/Ga/Y=
+
+Name: common-strings_fr.xml
+SHA-256-Digest: c1V427/ORfXkp7wS8yudy2Wsluszvr0Xam/sfpCOkbA=
+
+Name: projectile-motion-strings_iw.xml
+SHA-256-Digest: 76nrenFBod472+YS0Ucc07Z0Hc5O7ZsEUQ7YUmrCGLw=
+
+Name: credits.txt
+SHA-256-Digest: Xo7TvcCKXNOXPMcPPLD6PscMAqN0nI8xNS8f5pP0gdY=
+
+Name: flash-launcher/contrib-licenses/license-info.txt
+SHA-256-Digest: 3wwyEN2M0JDMMI9BqotN038/yiAeTtrYb7yU9cBylvQ=
+
+Name: edu/colorado/phet/flashlauncher/FlashHTML.class
+SHA-256-Digest: g6Sz4OHq2aYpMJMzJoj5vxRTuY0tHyQ/n2HSpUznzJA=
+
+Name: common-strings_es_CO.xml
+SHA-256-Digest: dfeAVpKXr0y1H/5mxZNqdqjuAHK7zWfDuxtciuBykPs=
+
+Name: common-strings_zh_CN.xml
+SHA-256-Digest: 830ArJc6npgiKm+VS3P3yhHkuHaJp+eYDsT4DAllR80=
+
+Name: common-strings_vi.xml
+SHA-256-Digest: 9wNPdktdsp5NZd9kT9vxDmIjub+BMtXSwzW7qtVDP4Y=
+
+Name: common-strings_el.xml
+SHA-256-Digest: /PeFJkgQ6lpWnmVyEvYakVVuArIZluqWW9Ns3o6urac=
+
+Name: projectile-motion-strings_lv.xml
+SHA-256-Digest: Onqeyv/mxbd+J2IJLz8+lE0KW0z1APjOvh3KUgMPso8=
+
+Name: common-strings_tr.xml
+SHA-256-Digest: 9HDfCUILexflkATn/u7JTouLF4uflpkOEGsBJRliyMQ=
+
+Name: projectile-motion-strings_zh_TW.xml
+SHA-256-Digest: 9QI9xtdZlPNKXXUb57Sox4IIe1dsghsrlxA0HLVLzKA=
+
+Name: projectile-motion-strings_ko.xml
+SHA-256-Digest: kZvjxpxd0xxJqYtPV6INu6SY84maf5FpdAD8WNjm2JU=
+
+Name: get_flash.jpg
+SHA-256-Digest: VEdQQFhpeP8AKZuOOHreX9lHOEQWo80Jzds77kzSJ9Q=
+
+Name: projectile-motion-strings_ms.xml
+SHA-256-Digest: HjhbScEz8vRtRYTGPCpsrWtuLq4m0iJqnCmtZHfyxU8=
+
+Name: edu/colorado/phet/flashlauncher/FlashLauncher.class
+SHA-256-Digest: Vfry1gqpwMquwmyOUgUsir0byy7/eqnodlv7bN90q/0=
+
+Name: common-strings_fi.xml
+SHA-256-Digest: tXoFxP4I+hoIsfdyVaJfcNvnuZLfZSlRY7bi34nOmws=
+
+Name: common-strings_ru.xml
+SHA-256-Digest: PWUkAv+oyT7NX7N56H9Zx2dax3oBjQMb4HBRTEIx9oA=
+
+Name: common-strings_ar.xml
+SHA-256-Digest: ygG4z+lwYSPuEqB2grQXvxeBN3turMRQMNmzsrx+JBk=
+
+Name: projectile-motion-strings_pt.xml
+SHA-256-Digest: oruN/S+mr/NmhhwBQ36vUoHosHgQJGev4Qu8d8eVOwo=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$LocalBas
+ icService.class
+SHA-256-Digest: tKqIv+ZZ3ONxMwQ8wSLIC9ALMk0Vs80Qqu/31d/cDeQ=
+
+Name: projectile-motion-strings_mk.xml
+SHA-256-Digest: ilhRvs1lvhXPaNkl28wMgD/Zij/e+Hauld7y571qkbU=
+
+Name: projectile-motion-strings_it.xml
+SHA-256-Digest: dWWilG6C/ErPXzTCzc0oJKb1+pmEEt1ebw9ntgghDjA=
+
+Name: projectile-motion-strings_ta.xml
+SHA-256-Digest: 0r2DaAhMQmGZdRlyjP0+kMZTS+IJplfx49wwCzZiLNk=
+
+Name: projectile-motion-strings_zh_CN.xml
+SHA-256-Digest: szKd8i8kzSgaUJz0RHLDX44jy28zw+V0GrLTa97RmU0=
+
+Name: edu/colorado/phet/flashlauncher/util/SimulationProperties.class
+SHA-256-Digest: esCnQqPOWW6UNKyHNNhly5qr1L8cF+cKg1U+nKm/3/Q=
+
+Name: projectile-motion-strings_sr.xml
+SHA-256-Digest: LEXnCYzM98UwBsy2WUsKmjR3vXMfnsZa1giu4DDFzy8=
+
+Name: software-agreement.htm
+SHA-256-Digest: JgsWb8+jcF/07qnLVqEAUquqt+dJLGb62K5vH4KYp0s=
+
+Name: edu/colorado/phet/flashlauncher/util/XMLUtils.class
+SHA-256-Digest: exD86OGtRADoks5InjPougl9Zngyu+1AoHojBSdiXh8=
+
+Name: projectile-motion-strings_cs.xml
+SHA-256-Digest: rX6GA/RCUUTJGB4imgeBSyrhei3ard00elfTRDne8a4=
+
+Name: projectile-motion.swf
+SHA-256-Digest: pVi3g0uRmy4L9mJCOn5XMfdzlAv+BkraWo/oJJEy1zo=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser.class
+SHA-256-Digest: LU9rvDcfiPVZiS+zrf9pgNrueVALrMX61gzUl7anPzQ=
+
+Name: flash-template.html
+SHA-256-Digest: XmGa51iVjJnFsS7qE8ixfEV1hRDjzOyZXj+yuiUC3ao=
+
+Name: common-strings_pt.xml
+SHA-256-Digest: c/fW7j+iD5eTVoD1PN8sbp34YKow34jSBbfz9l90XmU=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils.class
+SHA-256-Digest: jgd73YAAMfj33doq7Q1VLRX0NBImm0+dQaWNCHU3wZU=
+
+Name: projectile-motion-strings_et.xml
+SHA-256-Digest: /HxUWOo6gipPUJggtD3pkVqEpaZxDnL/xKgpHBxCpyg=
+
+Name: projectile-motion-strings_hr.xml
+SHA-256-Digest: sqi4o0llWDjj9hT1Vg07D3RrT5nXNx/EkBft7sIo9sk=
+
+Name: projectile-motion-strings_ja.xml
+SHA-256-Digest: h0O5qq7Nb0Wv/P3XeqXuXCpfBU5+SuRM2/wzkEzYGos=
+
+Name: projectile-motion-strings_ka.xml
+SHA-256-Digest: bXaWt3Fs6bZFctCMur90aqa0wR6BxH8ZyG7zFzUchQ4=
+
+Name: projectile-motion-strings_pl.xml
+SHA-256-Digest: 4fxwquZkUXsQRKX2Mn5zJMbDK83gpvx5nhJdKGR/8xU=
+
+Name: projectile-motion-strings_el.xml
+SHA-256-Digest: 0DzbfkPeGVqvi+vKwiocn+1b8iclWqK6wqAHdd0IcR4=
+
+Name: common-strings_mk.xml
+SHA-256-Digest: t4Chj4/jtwtcSeBNFYP+R7zEQ9Ox7aUYg5k7dpbEkB4=
+
+Name: common-strings_nb.xml
+SHA-256-Digest: eqvSEkJuvczv3xp1WFj2EKGtw0b/16jxW1hYJvazHOw=
+
+Name: projectile-motion-strings_in.xml
+SHA-256-Digest: 9JXu5dM/c9pqfDLgtUu3SFgjwMdSsApjT+LgClAkQHA=
+
+Name: projectile-motion-strings_ht.xml
+SHA-256-Digest: zkREm74GRNWjUyesJllEGu2Xyk64KUTBwGte5+5VGOE=
+
+Name: projectile-motion-strings_es.xml
+SHA-256-Digest: 9ab0rBeCba496mgXysvvn/kyESRrkVYdznEJwnrupvY=
+
+Name: common-strings_zh_TW.xml
+SHA-256-Digest: 9WAi6VC1X/doAytD28jUB7KkJths+SD8FkuSrYsYuDw=
+
+Name: common-strings_es.xml
+SHA-256-Digest: gIJu4i/i47EfBDeBPt/2YQusTCdMv8xMwX56TssmHDE=
+
+Name: projectile-motion-strings_ku_TR.xml
+SHA-256-Digest: v6Qu6uq0QagHuE/CdnGTqwR6SgiJS18iYYGC/KSeXJI=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker.class
+SHA-256-Digest: skRmWxBkm0YYg0+1DmYnTHWoHEFmCIw970saQeKf9GY=
+
+Name: projectile-motion-strings_hu.xml
+SHA-256-Digest: pECk273+9S9sUp27b4F2QRLkAqueUjeuWGttng22yDs=
+
+Name: projectile-motion-strings_nl.xml
+SHA-256-Digest: sJSJH404ZzGlzR4hOpe2JTdwr7fke1r2pPTV932xPs8=
+
+Name: edu/colorado/phet/flashlauncher/util/BareBonesBrowserLaunch.clas
+ s
+SHA-256-Digest: aXMOjBNAz5C0O9QgOrICyU99CrCTEGgZtC686nLWx7Q=
+
+Name: projectile-motion-strings_tk.xml
+SHA-256-Digest: wmYJZZrEAKaazSTEdjdvD7dRKDMGPoi8sVKHu/QNLkU=
+
+Name: projectile-motion-strings_eu.xml
+SHA-256-Digest: NdPk1EPaxNQuLdhVtemEp1Tx/OeANnrRBpLiv+4CB9c=
+
+Name: common-strings_hr.xml
+SHA-256-Digest: rTXlgtdNT/PZgSsW0EU+I5+uOPRnm94ZJGG5ibE1dJ4=
+
+Name: projectile-motion-strings_km.xml
+SHA-256-Digest: bVKdrOKIsnms8sEKgFY/0GtngbavDw/svfVQHVqLEYE=
+
+Name: common-strings_ro.xml
+SHA-256-Digest: Ua3LeTDU0+RUMcqu1S0qsFoHcNZGFIIzaQszcQxqYuY=
+
+Name: projectile-motion-strings_vi.xml
+SHA-256-Digest: WbW7nWw+8uulv287WtLubheW74m55AAFnPZScZcH+Qk=
+

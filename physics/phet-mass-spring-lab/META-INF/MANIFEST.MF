@@ -1,0 +1,323 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.0
+Application-Name: PhET Simulation
+Permissions: sandbox
+Created-By: 20.45-b01 (Sun Microsystems Inc.)
+Main-Class: edu.colorado.phet.flashlauncher.FlashLauncher
+Codebase: *
+
+Name: common-strings_pt_BR.xml
+SHA-256-Digest: WVDzjDyk14M9vBy1V2ML1/mnyha0N6U7Zhswqfe7mwk=
+
+Name: mass-spring-lab-strings_zh_CN.xml
+SHA-256-Digest: I2XmYqyqSCeH4J95D0PrgLnJWoar9+vEJSJBGO8R7d4=
+
+Name: mass-spring-lab-strings_es_CO.xml
+SHA-256-Digest: R+HpFshDUXEHw48CBqFuadCkm/3gBqyLUZfjS7br++M=
+
+Name: mass-spring-lab-strings_iw.xml
+SHA-256-Digest: emkl24qZ/KBJMt94ZhE+ju9LvqfK4eYecAIqBKvr3Po=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser$Annotation
+ .class
+SHA-256-Digest: EdoplQ0d81UMByP2boL3ZzzZudPwTrbD9p1RYFTGOz0=
+
+Name: common-strings_ka.xml
+SHA-256-Digest: zCkjDnShotx3+uw9mOt6gB2dN/3HksE6vcs2ZU1q/XE=
+
+Name: common-strings_sr.xml
+SHA-256-Digest: brkFxP5p/b9twznNA1Pr0dLZpGCuKrihuYuyu+PJPqk=
+
+Name: mass-spring-lab-strings_nl.xml
+SHA-256-Digest: 1JCaLJKBx23el8XP0r8B/wZHDhI6RpHR63FDoLL+dBA=
+
+Name: image002.gif
+SHA-256-Digest: R4j47oBa4OVjeN3TKqQ8G/4KEWHkAbYCTe9+4eoUQTs=
+
+Name: simulation.properties
+SHA-256-Digest: ftmyudWRltUFsfmiivxgRMfxFpXo8a7K9I//9L+clzc=
+
+Name: mass-spring-lab-strings_vi.xml
+SHA-256-Digest: 4g+txMn69Pj6y4lWIJdzQ7MgvnvWx2LusHnuXUECAw8=
+
+Name: mass-spring-lab-strings_nb.xml
+SHA-256-Digest: N+5XgyNvINm1HWki7+DxV5qBJRl/2VW4hPldqqNVV54=
+
+Name: common-strings_ko.xml
+SHA-256-Digest: 8BI7NOWTdz1OyU+1vPiCviCvXdeVBYGrOtGPRaPrYgs=
+
+Name: mass-spring-lab-strings_sl.xml
+SHA-256-Digest: +iqMcczXkLoCmMmB6SMmZRS3zjPap3QHMJXp5a9Idtk=
+
+Name: common-strings_sk.xml
+SHA-256-Digest: BSxVwQ2FUl5eiPLblqC3VRFqleiZiM46+MBQTA4PZBM=
+
+Name: common-strings_hu.xml
+SHA-256-Digest: Un3rcNkcX8F4xQ+W8nwF28+7v+7IaqhyMouJDOayHUo=
+
+Name: common-strings_ar_SA.xml
+SHA-256-Digest: lVgQddazrOTOeqkFQlk/insjzAiIPcWHziwUudtyvLE=
+
+Name: common-strings_lv.xml
+SHA-256-Digest: HcYhQhUT/qRADPXd/X1qCQlEkzRbbX5oOzqfs8Wwf3k=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$1.class
+SHA-256-Digest: BaZisNe1mc03ZgOjNHP3NIsMghWpaoL74o6elwM1/gU=
+
+Name: common-strings_iw.xml
+SHA-256-Digest: i7+A9Y06G6R+jux36CyWOMtH/ZROeyEOX/1ekt9wDv8=
+
+Name: image001.gif
+SHA-256-Digest: WCAwAMNBviNuwuFqwbXat6u7UL+C4aoHQIeoLTS8gGQ=
+
+Name: mass-spring-lab-strings_nn.xml
+SHA-256-Digest: 5O49DCDJ77FHRHKOOoq4Ywg11x1jkiyBs7lMf7ij+fQ=
+
+Name: software-agreement.properties
+SHA-256-Digest: fNGCIOeebjnBUVezlOqAL8sDO1UGjpnRqrqDpQKmyOc=
+
+Name: mass-spring-lab-strings_tr.xml
+SHA-256-Digest: na3bjurf+O0XodNNERXqE2oJ7iIwAPIgK3ZlRisOzEY=
+
+Name: mass-spring-lab-strings_et.xml
+SHA-256-Digest: t3SJ2atXNTUQTJOW+juP8WpuUbexWukg5o06vTNQNOM=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$2.class
+SHA-256-Digest: 9447VmYAj5YE0ESjexvl0xhxjP33A4kP0gGAzPiJeJg=
+
+Name: mass-spring-lab-strings_sk.xml
+SHA-256-Digest: g5939Yx4CXNWNqWkiGwr/F8JMUQhz40EZptmZrAzMjE=
+
+Name: mass-spring-lab-strings_cs.xml
+SHA-256-Digest: +nYahkMFZ7skQRM6CD6e5eVJYNrKlRFRovsNhIspbpU=
+
+Name: mass-spring-lab-strings_fr.xml
+SHA-256-Digest: qzqF4WCMAOkrznVgO0Ihfr9rH5iNXf673K0tR6w974E=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils$1.class
+SHA-256-Digest: DQ9T8PkcgNzt71PP7ez8XGy1rhVAUhmlDpX+9sKmBXY=
+
+Name: common-strings_eu.xml
+SHA-256-Digest: LZVL+UPBkB0cm2vWxxoLR1GVyoYJ+5cu9cx88wNYFr4=
+
+Name: common-strings_en.xml
+SHA-256-Digest: xdN6B4FRAPGJpo0VLDMDJMyW/T0jMrXs4kjsG17N9t4=
+
+Name: common-strings_sl.xml
+SHA-256-Digest: 9pzpj0zA/jfQurvhYWyCuYYUdUuBSvU3IAcK6BvaLjI=
+
+Name: common-strings_fr.xml
+SHA-256-Digest: c1V427/ORfXkp7wS8yudy2Wsluszvr0Xam/sfpCOkbA=
+
+Name: mass-spring-lab-strings_eu.xml
+SHA-256-Digest: 9eWrmRIIt9pPELDQlrXF5NxPplTGyFj1B65vhPhFDyw=
+
+Name: credits.txt
+SHA-256-Digest: b6KpBcyXw7T8bg+XlRowebm0FIrv0AGy7FeJW7DB+V0=
+
+Name: mass-spring-lab.swf
+SHA-256-Digest: PA4gUX8ODsT8Xt9BlIPOioPrXMpWBHiM5Uycu9LR/YE=
+
+Name: mass-spring-lab-strings_pt_BR.xml
+SHA-256-Digest: 3rIxy9UdDG2hFrQfXAHIQuGIFiK+P2e4c4FrmhkQUfk=
+
+Name: mass-spring-lab-strings_uk.xml
+SHA-256-Digest: +1o0ASFw7bcqd0g+4YCseDQNc2ZbZh2pb9tnfgwFec8=
+
+Name: flash-launcher/contrib-licenses/license-info.txt
+SHA-256-Digest: 3wwyEN2M0JDMMI9BqotN038/yiAeTtrYb7yU9cBylvQ=
+
+Name: mass-spring-lab-strings_th.xml
+SHA-256-Digest: kjUVGIEYOE4zf3i9wa/TsyfX91oVkZ1GocDMGd+VWo4=
+
+Name: common-strings_zh_CN.xml
+SHA-256-Digest: 830ArJc6npgiKm+VS3P3yhHkuHaJp+eYDsT4DAllR80=
+
+Name: common-strings_es_CO.xml
+SHA-256-Digest: dfeAVpKXr0y1H/5mxZNqdqjuAHK7zWfDuxtciuBykPs=
+
+Name: edu/colorado/phet/flashlauncher/FlashHTML.class
+SHA-256-Digest: g6Sz4OHq2aYpMJMzJoj5vxRTuY0tHyQ/n2HSpUznzJA=
+
+Name: common-strings_vi.xml
+SHA-256-Digest: 9wNPdktdsp5NZd9kT9vxDmIjub+BMtXSwzW7qtVDP4Y=
+
+Name: mass-spring-lab-strings_ko.xml
+SHA-256-Digest: kIC3SYr/X+7SAxA40zVfZAFCCLn/464MLV/U4fH9V7M=
+
+Name: common-strings_el.xml
+SHA-256-Digest: /PeFJkgQ6lpWnmVyEvYakVVuArIZluqWW9Ns3o6urac=
+
+Name: mass-spring-lab.properties
+SHA-256-Digest: 4y0qwjmaUXMqHN9qKKku3LqPua125n1sdz6NUPpE9yA=
+
+Name: mass-spring-lab-strings_pl.xml
+SHA-256-Digest: tyUTI5Qoz8Y5XO9AUjcxYajWVKCrmzjTe43KLMWmw38=
+
+Name: mass-spring-lab-strings_km.xml
+SHA-256-Digest: 8sQOD7+MsEU/YzKclW7j83lEiQNGUhj0Ldcr43Z1bhE=
+
+Name: common-strings_tr.xml
+SHA-256-Digest: 9HDfCUILexflkATn/u7JTouLF4uflpkOEGsBJRliyMQ=
+
+Name: mass-spring-lab-strings_ta.xml
+SHA-256-Digest: Y1fnLIiIGunmYZ3GlO9zHqDpDP9WkV3tXAVY+m6DSyg=
+
+Name: mass-spring-lab-strings_tk.xml
+SHA-256-Digest: gaavK5O5MMbEyI/PJbfikgS5MqUVDHtt+23m3sfxBZg=
+
+Name: mass-spring-lab-strings_ku_TR.xml
+SHA-256-Digest: lwfIUek8hrt++w+0bokYn9iacOyOyXo3ML7emHHa2cw=
+
+Name: get_flash.jpg
+SHA-256-Digest: VEdQQFhpeP8AKZuOOHreX9lHOEQWo80Jzds77kzSJ9Q=
+
+Name: mass-spring-lab-strings_ar_SA.xml
+SHA-256-Digest: ywM3kJe0My/NjgHk8gc/vUwOpDSH2UUbnfFdVrmenbA=
+
+Name: edu/colorado/phet/flashlauncher/FlashLauncher.class
+SHA-256-Digest: Vfry1gqpwMquwmyOUgUsir0byy7/eqnodlv7bN90q/0=
+
+Name: mass-spring-lab-strings_ar.xml
+SHA-256-Digest: ywM3kJe0My/NjgHk8gc/vUwOpDSH2UUbnfFdVrmenbA=
+
+Name: mass-spring-lab-strings_da.xml
+SHA-256-Digest: ZJ9YH+71UXVGEGzk02tOQKOqWRzedEN/lLbTSWPDWbI=
+
+Name: common-strings_fi.xml
+SHA-256-Digest: tXoFxP4I+hoIsfdyVaJfcNvnuZLfZSlRY7bi34nOmws=
+
+Name: mass-spring-lab-strings_en.xml
+SHA-256-Digest: e1J1AkR6qnlzWsrzVONnGsAq+K8FbRmYYNiV18kBQ6o=
+
+Name: common-strings_ru.xml
+SHA-256-Digest: PWUkAv+oyT7NX7N56H9Zx2dax3oBjQMb4HBRTEIx9oA=
+
+Name: mass-spring-lab-strings_gl.xml
+SHA-256-Digest: eiCvxMTbAksnT5tjFol8+SYtaM2/OCTmfqiDTNVJ2X8=
+
+Name: common-strings_ar.xml
+SHA-256-Digest: 7+Z/+LEtcI+z59fWMUt1CYrYITQqrS3q2GbMQINAmdI=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$LocalBas
+ icService.class
+SHA-256-Digest: tKqIv+ZZ3ONxMwQ8wSLIC9ALMk0Vs80Qqu/31d/cDeQ=
+
+Name: mass-spring-lab-strings_in.xml
+SHA-256-Digest: /LVu9vXYgCtFd9BRVogwJmQWG0NE4lCyT9e5D5dzmxg=
+
+Name: edu/colorado/phet/flashlauncher/util/SimulationProperties.class
+SHA-256-Digest: esCnQqPOWW6UNKyHNNhly5qr1L8cF+cKg1U+nKm/3/Q=
+
+Name: mass-spring-lab-strings_es_PE.xml
+SHA-256-Digest: O6mp7omDMrGrUnYPSWenzLi7gPYyeMZ8gqZ0jChdRgI=
+
+Name: mass-spring-lab-strings_ja.xml
+SHA-256-Digest: /2Mt9Lou5G6v99dnjtR/MQT46KgSIvteKS55ikWr7E4=
+
+Name: software-agreement.htm
+SHA-256-Digest: JgsWb8+jcF/07qnLVqEAUquqt+dJLGb62K5vH4KYp0s=
+
+Name: edu/colorado/phet/flashlauncher/util/XMLUtils.class
+SHA-256-Digest: exD86OGtRADoks5InjPougl9Zngyu+1AoHojBSdiXh8=
+
+Name: mass-spring-lab-strings_bs.xml
+SHA-256-Digest: VOsUyFNgAD6nPEdmJ3eDVQMxhVFCXfwuGz8ddf4F6ug=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser.class
+SHA-256-Digest: LU9rvDcfiPVZiS+zrf9pgNrueVALrMX61gzUl7anPzQ=
+
+Name: mass-spring-lab-strings_sq.xml
+SHA-256-Digest: 7Sfz5up/xh8TCCjjkDi6xyQBBlgZvIII8oO2cWYWHyI=
+
+Name: flash-template.html
+SHA-256-Digest: XmGa51iVjJnFsS7qE8ixfEV1hRDjzOyZXj+yuiUC3ao=
+
+Name: common-strings_pt.xml
+SHA-256-Digest: c/fW7j+iD5eTVoD1PN8sbp34YKow34jSBbfz9l90XmU=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils.class
+SHA-256-Digest: jgd73YAAMfj33doq7Q1VLRX0NBImm0+dQaWNCHU3wZU=
+
+Name: common-strings_mk.xml
+SHA-256-Digest: t4Chj4/jtwtcSeBNFYP+R7zEQ9Ox7aUYg5k7dpbEkB4=
+
+Name: common-strings_nb.xml
+SHA-256-Digest: eqvSEkJuvczv3xp1WFj2EKGtw0b/16jxW1hYJvazHOw=
+
+Name: mass-spring-lab-strings_it.xml
+SHA-256-Digest: BLqscbd+Rrgu4ryAeJ15Ji2mO7rWmcQgtbgIR4Ouvyg=
+
+Name: mass-spring-lab-strings_zh_TW.xml
+SHA-256-Digest: 5bOTJZQe9HzO5hyFf3mXQbSqGKVL0/L2+EH5wSRVZuo=
+
+Name: common-strings_zh_TW.xml
+SHA-256-Digest: 9WAi6VC1X/doAytD28jUB7KkJths+SD8FkuSrYsYuDw=
+
+Name: mass-spring-lab-strings_sv.xml
+SHA-256-Digest: /4UE+/Q2AvFjLcGMcrOKYRviRgw2nE+aX16C9cyG3qc=
+
+Name: common-strings_es.xml
+SHA-256-Digest: gIJu4i/i47EfBDeBPt/2YQusTCdMv8xMwX56TssmHDE=
+
+Name: mass-spring-lab-strings_mn.xml
+SHA-256-Digest: dk2Tz09zQJ9TF180XPuMaBWsuousKk2qB+v/oZkZ3pk=
+
+Name: mass-spring-lab-strings_hr.xml
+SHA-256-Digest: KliSn4OqLUvD23WpSL5QaigLQzQl7Xq85YiY4i0YVfc=
+
+Name: mass-spring-lab-strings_de.xml
+SHA-256-Digest: EzXDqNrMjS/hnL1lhAN1lFL/dnVcdEbqauH0IuzGap8=
+
+Name: mass-spring-lab-strings_lv.xml
+SHA-256-Digest: SbST3TwcHmEpheLXBD3CytSqKL78soxdJLifXE50lFA=
+
+Name: mass-spring-lab-strings_ku.xml
+SHA-256-Digest: TQoe+71lyR/vvZ7LtMg8+WkXb9EpIiUxaptphmluGtU=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker.class
+SHA-256-Digest: skRmWxBkm0YYg0+1DmYnTHWoHEFmCIw970saQeKf9GY=
+
+Name: mass-spring-lab-strings_fa.xml
+SHA-256-Digest: FUNVDc9JA7yb5f7ECV+v42/eSlkGSCGJ51FLwmL5Cdk=
+
+Name: mass-spring-lab-strings_ht.xml
+SHA-256-Digest: QawlnLJIG1NOed9nCCM7ASITiLUFWdRACcQTfp0NRU8=
+
+Name: mass-spring-lab-strings_el.xml
+SHA-256-Digest: UC2kN/srXAVowBjcXFgqykXhLZenxp6rLiDy7jwGe+o=
+
+Name: mass-spring-lab-strings_sr.xml
+SHA-256-Digest: 2XGMZ66Exyitsu8kaa+aRzjCqyQmitJpGS75Nsi0WHw=
+
+Name: mass-spring-lab-strings_ka.xml
+SHA-256-Digest: UBzPIFGu1/MBgrj1K2dgtUgAmJpsNtPPCGu9lWFwxM0=
+
+Name: mass-spring-lab-strings_ru.xml
+SHA-256-Digest: 9ciAu9k0uDKPOi+xypVxfvNunoZXt6YTngDxOpCpteM=
+
+Name: edu/colorado/phet/flashlauncher/util/BareBonesBrowserLaunch.clas
+ s
+SHA-256-Digest: aXMOjBNAz5C0O9QgOrICyU99CrCTEGgZtC686nLWx7Q=
+
+Name: mass-spring-lab-strings_fi.xml
+SHA-256-Digest: 7pBCsqis27pFAcYf7iouw6VKZilTWa2l1/qEaBO+jZs=
+
+Name: common-strings_hr.xml
+SHA-256-Digest: rTXlgtdNT/PZgSsW0EU+I5+uOPRnm94ZJGG5ibE1dJ4=
+
+Name: mass-spring-lab-strings_es.xml
+SHA-256-Digest: RIwtxzHeumO4PWBul31DZRZLtupo15WhTIEjM9g7kew=
+
+Name: mass-spring-lab-strings_hu.xml
+SHA-256-Digest: TEKDKPHAGX+ep1vhuYhoLmkH4+4NKGhCooGz0344zdU=
+
+Name: mass-spring-lab-strings_mk.xml
+SHA-256-Digest: mmXH4D+ju7+tkmXblzFK/45xi1Rq3DHyt1IXF8/LZ14=
+
+Name: mass-spring-lab-strings_ms.xml
+SHA-256-Digest: tvyvySsLxCRLqHYu2CQz3JFLayENh9BBnHgn6RtsTH8=
+
+Name: common-strings_ro.xml
+SHA-256-Digest: Ua3LeTDU0+RUMcqu1S0qsFoHcNZGFIIzaQszcQxqYuY=
+

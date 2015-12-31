@@ -1,0 +1,326 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.0
+Application-Name: PhET Simulation
+Permissions: sandbox
+Created-By: 20.45-b01 (Sun Microsystems Inc.)
+Main-Class: edu.colorado.phet.flashlauncher.FlashLauncher
+Codebase: *
+
+Name: common-strings_pt_BR.xml
+SHA-256-Digest: WVDzjDyk14M9vBy1V2ML1/mnyha0N6U7Zhswqfe7mwk=
+
+Name: pendulum-lab-strings_ko.xml
+SHA-256-Digest: s7s+QNuMMNGuaXu/OLmfIAmB1s1FQu9xG5LYa3Y4tqw=
+
+Name: pendulum-lab-strings_pt_BR.xml
+SHA-256-Digest: AmVTlRHT6hU6xq5HCqfu2/i2oxjA5J9oc41/R9EzNUk=
+
+Name: pendulum-lab-strings_fi.xml
+SHA-256-Digest: uZN1sIFOq5db6tkY9Jing0Pu/ELlONRyaDO/x1lZK+0=
+
+Name: pendulum-lab-strings_ar_SA.xml
+SHA-256-Digest: 4SP/EWI700gSCszndYka6wfwhbYLUTmus7HQPAiY9uc=
+
+Name: pendulum-lab-strings_pl.xml
+SHA-256-Digest: 8ZqwLJHeKJ8K4UPetUcKOBGGi38tDHLPlEjUm2KMdOM=
+
+Name: pendulum-lab-strings_eu.xml
+SHA-256-Digest: qq5qjaUb/+tdoZgH3kCYo3PtW6YlbxNfAaOqhLrabKQ=
+
+Name: pendulum-lab-strings_sl.xml
+SHA-256-Digest: Rn+Rrd+QB1OI+keykc+x++p0e3VGCme6jTPYln4FOjk=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser$Annotation
+ .class
+SHA-256-Digest: EdoplQ0d81UMByP2boL3ZzzZudPwTrbD9p1RYFTGOz0=
+
+Name: common-strings_ka.xml
+SHA-256-Digest: zCkjDnShotx3+uw9mOt6gB2dN/3HksE6vcs2ZU1q/XE=
+
+Name: common-strings_sr.xml
+SHA-256-Digest: brkFxP5p/b9twznNA1Pr0dLZpGCuKrihuYuyu+PJPqk=
+
+Name: pendulum-lab-strings_it.xml
+SHA-256-Digest: mV0pgqXqb73WGOee5kw/CRq8Qwc5q7ADn9lxFEFZojM=
+
+Name: pendulum-lab-strings_tr.xml
+SHA-256-Digest: 1mBrrMdYqol5FnCoFXO/u9hXA74EVsKNL2wc00Z8BFw=
+
+Name: pendulum-lab-strings_es_PE.xml
+SHA-256-Digest: su1MC5mBBm12oL8IaWCq4SJRVV5+/gcgcONI56V7M5M=
+
+Name: image002.gif
+SHA-256-Digest: R4j47oBa4OVjeN3TKqQ8G/4KEWHkAbYCTe9+4eoUQTs=
+
+Name: simulation.properties
+SHA-256-Digest: Ytm30MKB7QJSdzt6VKXm1ye7wbJRoJySowIgqcTnVaU=
+
+Name: common-strings_ko.xml
+SHA-256-Digest: 8BI7NOWTdz1OyU+1vPiCviCvXdeVBYGrOtGPRaPrYgs=
+
+Name: common-strings_sk.xml
+SHA-256-Digest: BSxVwQ2FUl5eiPLblqC3VRFqleiZiM46+MBQTA4PZBM=
+
+Name: pendulum-lab-strings_zh_TW.xml
+SHA-256-Digest: bJpb6CSfaZcUTBHE35LneWGSHGpixRWMfXYhfPIFnTM=
+
+Name: common-strings_hu.xml
+SHA-256-Digest: Un3rcNkcX8F4xQ+W8nwF28+7v+7IaqhyMouJDOayHUo=
+
+Name: common-strings_ar_SA.xml
+SHA-256-Digest: XR5L/LwMRoCwb84FHu++CIhyngXTz49oPumu0OMNG3U=
+
+Name: common-strings_lv.xml
+SHA-256-Digest: HcYhQhUT/qRADPXd/X1qCQlEkzRbbX5oOzqfs8Wwf3k=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$1.class
+SHA-256-Digest: BaZisNe1mc03ZgOjNHP3NIsMghWpaoL74o6elwM1/gU=
+
+Name: pendulum-lab-strings_ku.xml
+SHA-256-Digest: TdQ1KWlBoDEw0mOhjwEwpNIGGAiaJhXuGxnYnyS548Y=
+
+Name: common-strings_iw.xml
+SHA-256-Digest: i7+A9Y06G6R+jux36CyWOMtH/ZROeyEOX/1ekt9wDv8=
+
+Name: pendulum-lab-strings_lt.xml
+SHA-256-Digest: mASJrn/kwEC+BflzCG1V9thFtnzx0FzL470iI8nUNsU=
+
+Name: image001.gif
+SHA-256-Digest: WCAwAMNBviNuwuFqwbXat6u7UL+C4aoHQIeoLTS8gGQ=
+
+Name: software-agreement.properties
+SHA-256-Digest: fNGCIOeebjnBUVezlOqAL8sDO1UGjpnRqrqDpQKmyOc=
+
+Name: pendulum-lab-strings_sr.xml
+SHA-256-Digest: /CN2TyzD9+nbHqW1swLKp2paQgfUOctMmE2zmrlqW4w=
+
+Name: pendulum-lab-strings_zh_CN.xml
+SHA-256-Digest: ZdpYmF/tfa+LwT0vfY+/kO3qBK9C0LZjPlF+jlKtSQM=
+
+Name: pendulum-lab-strings_en.xml
+SHA-256-Digest: rxTF+pSHjCK1Ti8K9nzFgUAF7c+lp6llO6ZDq80RYDQ=
+
+Name: pendulum-lab-strings_ka.xml
+SHA-256-Digest: G6tClbRz2lSFchGvbtrNT5nQkgRzyIDcizvrCnlLGdQ=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$2.class
+SHA-256-Digest: 9447VmYAj5YE0ESjexvl0xhxjP33A4kP0gGAzPiJeJg=
+
+Name: pendulum-lab-strings_kn.xml
+SHA-256-Digest: StHt6+vlkbYI1RqOHYvhdg7pivrxGcAQg3QgJ+uWgNw=
+
+Name: pendulum-lab-strings_km.xml
+SHA-256-Digest: sLQ8mOyJExkefTAFz9i/LA5GKI96dYl/yT8f84xJInw=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils$1.class
+SHA-256-Digest: DQ9T8PkcgNzt71PP7ez8XGy1rhVAUhmlDpX+9sKmBXY=
+
+Name: common-strings_eu.xml
+SHA-256-Digest: LZVL+UPBkB0cm2vWxxoLR1GVyoYJ+5cu9cx88wNYFr4=
+
+Name: common-strings_en.xml
+SHA-256-Digest: xdN6B4FRAPGJpo0VLDMDJMyW/T0jMrXs4kjsG17N9t4=
+
+Name: common-strings_sl.xml
+SHA-256-Digest: 9pzpj0zA/jfQurvhYWyCuYYUdUuBSvU3IAcK6BvaLjI=
+
+Name: pendulum-lab-strings_es.xml
+SHA-256-Digest: 8Xq/dGPNvx7FgaQi9fBSvZiTs5MaQoRaPL0x+bbwNGU=
+
+Name: common-strings_fr.xml
+SHA-256-Digest: c1V427/ORfXkp7wS8yudy2Wsluszvr0Xam/sfpCOkbA=
+
+Name: pendulum-lab-strings_sk.xml
+SHA-256-Digest: Q0aaNChxCw141TswHaPFf+8QENeAGbUkZQZg2KBWdtE=
+
+Name: credits.txt
+SHA-256-Digest: Uq6YXGtN6i/dy5W+VATMLLnfiUUng9mDvynSPKl/8qE=
+
+Name: pendulum-lab-strings_cs.xml
+SHA-256-Digest: R60RlCD+SfavDHjBQTn5txjq+YZ32hqAcdBUQu6mHJ8=
+
+Name: pendulum-lab.swf
+SHA-256-Digest: KfAzsDEnlA6+m4p6186PQzU0nPUfdTejHQcT9Y15tVY=
+
+Name: flash-launcher/contrib-licenses/license-info.txt
+SHA-256-Digest: 3wwyEN2M0JDMMI9BqotN038/yiAeTtrYb7yU9cBylvQ=
+
+Name: pendulum-lab-strings_lv.xml
+SHA-256-Digest: 7jQoTEOmrO3HL7+EGnoQp08iWr+VKhr1RJZfJ0pHAyI=
+
+Name: common-strings_es_CO.xml
+SHA-256-Digest: dfeAVpKXr0y1H/5mxZNqdqjuAHK7zWfDuxtciuBykPs=
+
+Name: edu/colorado/phet/flashlauncher/FlashHTML.class
+SHA-256-Digest: g6Sz4OHq2aYpMJMzJoj5vxRTuY0tHyQ/n2HSpUznzJA=
+
+Name: common-strings_zh_CN.xml
+SHA-256-Digest: 830ArJc6npgiKm+VS3P3yhHkuHaJp+eYDsT4DAllR80=
+
+Name: common-strings_vi.xml
+SHA-256-Digest: 9wNPdktdsp5NZd9kT9vxDmIjub+BMtXSwzW7qtVDP4Y=
+
+Name: common-strings_el.xml
+SHA-256-Digest: /PeFJkgQ6lpWnmVyEvYakVVuArIZluqWW9Ns3o6urac=
+
+Name: pendulum-lab-strings_tk.xml
+SHA-256-Digest: 1pdnfWWCvZcUARTDO95YVyHMcSnExV2XlvIJ6K7Fbag=
+
+Name: pendulum-lab-strings_et.xml
+SHA-256-Digest: CxX6v7AHHhj4kFOzm1P/CFDTyYMrm5DbznqBjejcNQ4=
+
+Name: common-strings_tr.xml
+SHA-256-Digest: 9HDfCUILexflkATn/u7JTouLF4uflpkOEGsBJRliyMQ=
+
+Name: pendulum-lab-strings_de.xml
+SHA-256-Digest: 5OqwdKN0wRuFBd0xLLExUJ1raNpuzAg9wRX5+Oy1qIs=
+
+Name: get_flash.jpg
+SHA-256-Digest: VEdQQFhpeP8AKZuOOHreX9lHOEQWo80Jzds77kzSJ9Q=
+
+Name: pendulum-lab-strings_vi.xml
+SHA-256-Digest: J4t8xaPboC23J0AfivvmFAigaDWLvWpIAhnQ/cCmy+Q=
+
+Name: pendulum-lab-strings_ca.xml
+SHA-256-Digest: 2xV0Fu9xJTx1gF6Y6dLwgX4/aljY6PwEf9I4vkcBib8=
+
+Name: edu/colorado/phet/flashlauncher/FlashLauncher.class
+SHA-256-Digest: Vfry1gqpwMquwmyOUgUsir0byy7/eqnodlv7bN90q/0=
+
+Name: common-strings_fi.xml
+SHA-256-Digest: tXoFxP4I+hoIsfdyVaJfcNvnuZLfZSlRY7bi34nOmws=
+
+Name: common-strings_ru.xml
+SHA-256-Digest: PWUkAv+oyT7NX7N56H9Zx2dax3oBjQMb4HBRTEIx9oA=
+
+Name: pendulum-lab-strings_in.xml
+SHA-256-Digest: UHqhW9L2kmBGj7EkTrenheLmYWDSHyeuDApAQqYLiww=
+
+Name: pendulum-lab-strings_bs.xml
+SHA-256-Digest: CPxXq59NRuCmsVbZ6qX9FEWoKbn3wW8LZlCL9S0Cybo=
+
+Name: common-strings_ar.xml
+SHA-256-Digest: ygG4z+lwYSPuEqB2grQXvxeBN3turMRQMNmzsrx+JBk=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$LocalBas
+ icService.class
+SHA-256-Digest: tKqIv+ZZ3ONxMwQ8wSLIC9ALMk0Vs80Qqu/31d/cDeQ=
+
+Name: pendulum-lab-strings_ms.xml
+SHA-256-Digest: RgO2Xdl8zd67MkmEWNB9nRXICw94MG65Bjvpo0V9mnQ=
+
+Name: edu/colorado/phet/flashlauncher/util/SimulationProperties.class
+SHA-256-Digest: esCnQqPOWW6UNKyHNNhly5qr1L8cF+cKg1U+nKm/3/Q=
+
+Name: software-agreement.htm
+SHA-256-Digest: JgsWb8+jcF/07qnLVqEAUquqt+dJLGb62K5vH4KYp0s=
+
+Name: edu/colorado/phet/flashlauncher/util/XMLUtils.class
+SHA-256-Digest: exD86OGtRADoks5InjPougl9Zngyu+1AoHojBSdiXh8=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser.class
+SHA-256-Digest: LU9rvDcfiPVZiS+zrf9pgNrueVALrMX61gzUl7anPzQ=
+
+Name: pendulum-lab-strings_nb.xml
+SHA-256-Digest: o48hS1rmdPXNnuMyjxzEgdwAhKxhTlo/LkyyUUKRvjo=
+
+Name: pendulum-lab-strings_el.xml
+SHA-256-Digest: /ybJyfPiTYMfMGYWiCkye9dG1CVHkU0WlPqAWgbyN3E=
+
+Name: common-strings_pt.xml
+SHA-256-Digest: c/fW7j+iD5eTVoD1PN8sbp34YKow34jSBbfz9l90XmU=
+
+Name: flash-template.html
+SHA-256-Digest: XmGa51iVjJnFsS7qE8ixfEV1hRDjzOyZXj+yuiUC3ao=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils.class
+SHA-256-Digest: jgd73YAAMfj33doq7Q1VLRX0NBImm0+dQaWNCHU3wZU=
+
+Name: pendulum-lab-strings_ru.xml
+SHA-256-Digest: TATYZn8bnB8bXbo5p5T3kEtOHfJ+5QOY/2X3SnJ0u2I=
+
+Name: pendulum-lab-strings_nl.xml
+SHA-256-Digest: sRXTXSGhoH2MZlOZpp+s9EepWqJpBKU7YngLNV6DUok=
+
+Name: pendulum-lab-strings_da.xml
+SHA-256-Digest: /MIaEb/KV1Xb/B+TkcfcpF4+Hrl48SvWnZag+6Dzwy8=
+
+Name: pendulum-lab-strings_ar.xml
+SHA-256-Digest: 4SP/EWI700gSCszndYka6wfwhbYLUTmus7HQPAiY9uc=
+
+Name: common-strings_mk.xml
+SHA-256-Digest: t4Chj4/jtwtcSeBNFYP+R7zEQ9Ox7aUYg5k7dpbEkB4=
+
+Name: common-strings_nb.xml
+SHA-256-Digest: eqvSEkJuvczv3xp1WFj2EKGtw0b/16jxW1hYJvazHOw=
+
+Name: pendulum-lab-strings_hr.xml
+SHA-256-Digest: fPi8ANB2kZj1snZngmEzZdPMOzyXsxFzBEvtoU9Pkq4=
+
+Name: pendulum-lab-strings_kk.xml
+SHA-256-Digest: bSA0J/YCC5cRfteAcmDZp42fUCMVWMq1WmJ8Rm+E2k0=
+
+Name: common-strings_zh_TW.xml
+SHA-256-Digest: 9WAi6VC1X/doAytD28jUB7KkJths+SD8FkuSrYsYuDw=
+
+Name: common-strings_es.xml
+SHA-256-Digest: gIJu4i/i47EfBDeBPt/2YQusTCdMv8xMwX56TssmHDE=
+
+Name: pendulum-lab-strings_ja.xml
+SHA-256-Digest: nvGN7ZT9kpXC1lljSf55TxqMD5euqPqSs+j/qqJjbVk=
+
+Name: pendulum-lab-strings_ht.xml
+SHA-256-Digest: CMoXw5dEPdOFig5CkPq1HMPBoSrjUm7CUylsVgs8YnQ=
+
+Name: pendulum-lab-strings_mk.xml
+SHA-256-Digest: UG4udb8uBl1qabU9bp/D7vgLoDU4a6ur/yY3Dme6aMQ=
+
+Name: pendulum-lab-strings_ku_TR.xml
+SHA-256-Digest: jmPdoJBnyhO5F8ogMBQk1qr8D7hLJuIqWzCgYUKwn0k=
+
+Name: pendulum-lab-strings_ta.xml
+SHA-256-Digest: 0H11rKzFr6vuiFKYF+IkuzKFWi6FyMTK9HNKyfHT8QA=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker.class
+SHA-256-Digest: skRmWxBkm0YYg0+1DmYnTHWoHEFmCIw970saQeKf9GY=
+
+Name: pendulum-lab-strings_fa.xml
+SHA-256-Digest: DvSt3FiMAoIhDJx/P96oVoVc2KLjB+tDxQzuoI+/b+c=
+
+Name: pendulum-lab-strings_bn.xml
+SHA-256-Digest: nCg/srCRHJs00purRmw1FA63Q57jyIpixsMf/IydIVo=
+
+Name: pendulum-lab-strings_fr.xml
+SHA-256-Digest: be0ZiS7bzuDbmDAJzMzYETI04eMWXWpfOjH8AYKyN5I=
+
+Name: pendulum-lab-strings_iw.xml
+SHA-256-Digest: R1q2nAV94N/Vx7NI37y8iQI0igJo40fJWzbIBhVkJkA=
+
+Name: edu/colorado/phet/flashlauncher/util/BareBonesBrowserLaunch.clas
+ s
+SHA-256-Digest: aXMOjBNAz5C0O9QgOrICyU99CrCTEGgZtC686nLWx7Q=
+
+Name: pendulum-lab-strings_mn.xml
+SHA-256-Digest: 9J/nvx+iaiP7UcZaU1Qy+kg2t9urNCbS6THiZCkI6c8=
+
+Name: pendulum-lab-strings_gl.xml
+SHA-256-Digest: Fn9EFwtqt+dO8KfKXxuVzwjXws3bzNlj7WgN07ul1bc=
+
+Name: common-strings_hr.xml
+SHA-256-Digest: rTXlgtdNT/PZgSsW0EU+I5+uOPRnm94ZJGG5ibE1dJ4=
+
+Name: pendulum-lab-strings_hu.xml
+SHA-256-Digest: akx0Pr0BqYhjkoqBmUjJ/0bXPXOkn1ffWt8BDL+Ev6Q=
+
+Name: pendulum-lab.properties
+SHA-256-Digest: rIdD8f1rGITavMVF5n1M4qKvcN3lCmghsFYZPOxy9Fo=
+
+Name: pendulum-lab-strings_sv.xml
+SHA-256-Digest: 3+AGQJMRmNomj3kbZGO+D3hno2cRgzOylUDjr4npkec=
+
+Name: pendulum-lab-strings_uk.xml
+SHA-256-Digest: 5Tse1tlRJ10QyAarKZ6HN/AAszqVCc+nAIGsYfINnUM=
+
+Name: common-strings_ro.xml
+SHA-256-Digest: Ua3LeTDU0+RUMcqu1S0qsFoHcNZGFIIzaQszcQxqYuY=
+

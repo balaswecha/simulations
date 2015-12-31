@@ -1,0 +1,281 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.0
+Application-Name: PhET Simulation
+Permissions: sandbox
+Created-By: 20.45-b01 (Sun Microsystems Inc.)
+Main-Class: edu.colorado.phet.flashlauncher.FlashLauncher
+Codebase: *
+
+Name: common-strings_pt_BR.xml
+SHA-256-Digest: WVDzjDyk14M9vBy1V2ML1/mnyha0N6U7Zhswqfe7mwk=
+
+Name: common-strings_fi.xml
+SHA-256-Digest: tXoFxP4I+hoIsfdyVaJfcNvnuZLfZSlRY7bi34nOmws=
+
+Name: common-strings_ru.xml
+SHA-256-Digest: PWUkAv+oyT7NX7N56H9Zx2dax3oBjQMb4HBRTEIx9oA=
+
+Name: lunar-lander-strings_sr.xml
+SHA-256-Digest: k7MWiPPYOGH8tIK939psMzgzCnxCTsjbExstWXSkqG0=
+
+Name: lunar-lander-strings_bs.xml
+SHA-256-Digest: XqQl3W7hGCOD++b48K1+hYuk8YPyaATbC9HzAKiT8ZM=
+
+Name: common-strings_ar.xml
+SHA-256-Digest: ygG4z+lwYSPuEqB2grQXvxeBN3turMRQMNmzsrx+JBk=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser$Annotation
+ .class
+SHA-256-Digest: EdoplQ0d81UMByP2boL3ZzzZudPwTrbD9p1RYFTGOz0=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$LocalBas
+ icService.class
+SHA-256-Digest: pUQCoyILHeaCBHejpjP/RxsHiZ7XduVMHV6P98n6INA=
+
+Name: common-strings_ka.xml
+SHA-256-Digest: zCkjDnShotx3+uw9mOt6gB2dN/3HksE6vcs2ZU1q/XE=
+
+Name: common-strings_sr.xml
+SHA-256-Digest: brkFxP5p/b9twznNA1Pr0dLZpGCuKrihuYuyu+PJPqk=
+
+Name: edu/colorado/phet/flashlauncher/util/SimulationProperties.class
+SHA-256-Digest: esCnQqPOWW6UNKyHNNhly5qr1L8cF+cKg1U+nKm/3/Q=
+
+Name: simulation.properties
+SHA-256-Digest: +WXjLNYTIENY+S7OcOO7J3VWoHaKhw/LbMArdbskc9E=
+
+Name: software-agreement.htm
+SHA-256-Digest: JgsWb8+jcF/07qnLVqEAUquqt+dJLGb62K5vH4KYp0s=
+
+Name: image002.gif
+SHA-256-Digest: R4j47oBa4OVjeN3TKqQ8G/4KEWHkAbYCTe9+4eoUQTs=
+
+Name: edu/colorado/phet/flashlauncher/util/XMLUtils.class
+SHA-256-Digest: exD86OGtRADoks5InjPougl9Zngyu+1AoHojBSdiXh8=
+
+Name: lunar-lander-strings_fa.xml
+SHA-256-Digest: 90LPGpKtZa5u8x8p6rml3N/1a+EW1aKGgs1SET0hmZ8=
+
+Name: common-strings_ko.xml
+SHA-256-Digest: 8BI7NOWTdz1OyU+1vPiCviCvXdeVBYGrOtGPRaPrYgs=
+
+Name: lunar-lander-strings_tr.xml
+SHA-256-Digest: HKfV+4Dbdb+g3Hbx0nmG43VBMSvw+izMHyYPQXyYdV4=
+
+Name: common-strings_sk.xml
+SHA-256-Digest: BSxVwQ2FUl5eiPLblqC3VRFqleiZiM46+MBQTA4PZBM=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser.class
+SHA-256-Digest: LU9rvDcfiPVZiS+zrf9pgNrueVALrMX61gzUl7anPzQ=
+
+Name: lunar-lander-strings_de.xml
+SHA-256-Digest: qeWloXtOcZCz05JrIytPeIDlLhpIqwx7HyTRSpZaz80=
+
+Name: flash-template.html
+SHA-256-Digest: wCkpOyhdDplF6Lm0QuJumO83LsEK9JbPOnE2Ho7HYFU=
+
+Name: common-strings_pt.xml
+SHA-256-Digest: c/fW7j+iD5eTVoD1PN8sbp34YKow34jSBbfz9l90XmU=
+
+Name: lunar-lander.properties
+SHA-256-Digest: 3OMcAGfY/acvI6to0atsyItssG0OBKX2CCvWe4j13Zo=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils.class
+SHA-256-Digest: jgd73YAAMfj33doq7Q1VLRX0NBImm0+dQaWNCHU3wZU=
+
+Name: lunar-lander-strings_th.xml
+SHA-256-Digest: 8EXIZJHH1IfykvCGojOFUlUlOIs1aOnEck7s5ezV3CY=
+
+Name: common-strings_hu.xml
+SHA-256-Digest: Un3rcNkcX8F4xQ+W8nwF28+7v+7IaqhyMouJDOayHUo=
+
+Name: lunar-lander-strings_es.xml
+SHA-256-Digest: +GtvP6/7LPmrVELqAnZ8HSd36rlpMdHlz0c09xKw1PI=
+
+Name: common-strings_ar_SA.xml
+SHA-256-Digest: XR5L/LwMRoCwb84FHu++CIhyngXTz49oPumu0OMNG3U=
+
+Name: lunar-lander.swf
+SHA-256-Digest: v8x5STwMfRiRQKNMmXVj60mcCnkf3+lpuzRjogAaapc=
+
+Name: common-strings_lv.xml
+SHA-256-Digest: HcYhQhUT/qRADPXd/X1qCQlEkzRbbX5oOzqfs8Wwf3k=
+
+Name: lunar-lander-strings_el.xml
+SHA-256-Digest: CxkkOL5b6FJPG5+xA3VK/UlUw/nnLIX0lajec5hJw8Y=
+
+Name: lunar-lander-strings_ar_SA.xml
+SHA-256-Digest: 6oyB7yw9nC0H5lBNNgpo4POVFguruV1j04JBh6M/zpo=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$1.class
+SHA-256-Digest: 6eBeyFiVgFNLMVEOKT3mG4Cnvd0Y1YyGFyzTr59/prI=
+
+Name: common-strings_iw.xml
+SHA-256-Digest: i7+A9Y06G6R+jux36CyWOMtH/ZROeyEOX/1ekt9wDv8=
+
+Name: common-strings_nb.xml
+SHA-256-Digest: eqvSEkJuvczv3xp1WFj2EKGtw0b/16jxW1hYJvazHOw=
+
+Name: common-strings_mk.xml
+SHA-256-Digest: t4Chj4/jtwtcSeBNFYP+R7zEQ9Ox7aUYg5k7dpbEkB4=
+
+Name: image001.gif
+SHA-256-Digest: WCAwAMNBviNuwuFqwbXat6u7UL+C4aoHQIeoLTS8gGQ=
+
+Name: lunar-lander-strings_nl.xml
+SHA-256-Digest: LYHwd8nAzkHckvp75/yNaM+kuxMAZ+zAqZR/haPjW7I=
+
+Name: software-agreement.properties
+SHA-256-Digest: fNGCIOeebjnBUVezlOqAL8sDO1UGjpnRqrqDpQKmyOc=
+
+Name: lunar-lander-strings_es_PE.xml
+SHA-256-Digest: ARQ4dqmDrirbMVZnM8xYDlKK2cJQg93P/Djf2UpuJT8=
+
+Name: lunar-lander-strings_en.xml
+SHA-256-Digest: kFkOXksC7yJBDDUnHcg0XvEZaxgNLbUQ5tuvV9Rq7cM=
+
+Name: common-strings_zh_TW.xml
+SHA-256-Digest: 9WAi6VC1X/doAytD28jUB7KkJths+SD8FkuSrYsYuDw=
+
+Name: lunar-lander-strings_ja.xml
+SHA-256-Digest: MeGsbx0IRqjoNj5FpmwBf1lDBkhX8wtsj3awmMGKDaQ=
+
+Name: lunar-lander-strings_km.xml
+SHA-256-Digest: ea3dfi71cNXKD3KVT26yVHj4rpvaS4glad+id+Cpy4Y=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$2.class
+SHA-256-Digest: ZfmvVBRO2Y36ZFjMEvNZb5hPGWIuSmASUG4mHYohhUM=
+
+Name: common-strings_es.xml
+SHA-256-Digest: gIJu4i/i47EfBDeBPt/2YQusTCdMv8xMwX56TssmHDE=
+
+Name: lunar-lander-strings_eu.xml
+SHA-256-Digest: 4FhphJSe75C061mUz0Kuua3UZERN9X/sxSMlWdr4OHI=
+
+Name: lunar-lander-strings_hu.xml
+SHA-256-Digest: be35JeiyusIfATmkrsiGicUdiCvy5sVzGoXu0+aE8gc=
+
+Name: lunar-lander-strings_ar.xml
+SHA-256-Digest: 6oyB7yw9nC0H5lBNNgpo4POVFguruV1j04JBh6M/zpo=
+
+Name: lunar-lander-strings_vi.xml
+SHA-256-Digest: yRo47cgZMx132tfFfj9e11se6GDG+ahN3P4rIb4lt04=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils$1.class
+SHA-256-Digest: DQ9T8PkcgNzt71PP7ez8XGy1rhVAUhmlDpX+9sKmBXY=
+
+Name: lunar-lander-strings_cs.xml
+SHA-256-Digest: 8KTCTWPrfZ9Umm+IRD2P0V6aJCtQZNWwPzEIzPb5PVw=
+
+Name: lunar-lander-strings_pl.xml
+SHA-256-Digest: 2b+Yf9vUD7aUjXtwflYmUwvcyOTXFN2eYs4lNCtFD5o=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker.class
+SHA-256-Digest: nKa0vujtWPUVOfH2U5pKDxY1YCRDutwGhMZxZuf1nU8=
+
+Name: common-strings_eu.xml
+SHA-256-Digest: LZVL+UPBkB0cm2vWxxoLR1GVyoYJ+5cu9cx88wNYFr4=
+
+Name: lunar-lander-strings_zh_TW.xml
+SHA-256-Digest: k7KIgoJemBI3qGHf50+jOtsypjA4ZiH9gupprDsgowc=
+
+Name: lunar-lander-strings_pt.xml
+SHA-256-Digest: Ti5JUasTRxvtxwbHQreFn4zK/WK5Zv17Ew9CUERulQQ=
+
+Name: common-strings_en.xml
+SHA-256-Digest: xdN6B4FRAPGJpo0VLDMDJMyW/T0jMrXs4kjsG17N9t4=
+
+Name: lunar-lander-strings_iw.xml
+SHA-256-Digest: BtClWivPvuvdPxrCH0NinOeZOxkPHZ+DdKD1IRieN8o=
+
+Name: common-strings_sl.xml
+SHA-256-Digest: 9pzpj0zA/jfQurvhYWyCuYYUdUuBSvU3IAcK6BvaLjI=
+
+Name: lunar-lander-strings_sv.xml
+SHA-256-Digest: Ig+1ffiNXYaVU/kGzCjVngHsOOSucaR0fKmOLaDcf78=
+
+Name: common-strings_fr.xml
+SHA-256-Digest: c1V427/ORfXkp7wS8yudy2Wsluszvr0Xam/sfpCOkbA=
+
+Name: lunar-lander-strings_ko.xml
+SHA-256-Digest: F1xMVgxuGZ5LmbRse1FNdnecoL48vLQAbM5aLkW/1m4=
+
+Name: lunar-lander-strings_pt_BR.xml
+SHA-256-Digest: 36NQ9cbz9vlILTGIYtSk9167GMan73J3dfa8yo4Kj6U=
+
+Name: lunar-lander-strings_kk.xml
+SHA-256-Digest: HKhKChH0EfynKKGpZjUnARyv/471UMFzOmH6x/6ryF4=
+
+Name: credits.txt
+SHA-256-Digest: 0NacBheFCQxD8h4FEpqLfpI3jhm+xz6dMyaHCGOOf7Q=
+
+Name: edu/colorado/phet/flashlauncher/util/BareBonesBrowserLaunch.clas
+ s
+SHA-256-Digest: aXMOjBNAz5C0O9QgOrICyU99CrCTEGgZtC686nLWx7Q=
+
+Name: lunar-lander-strings_fr.xml
+SHA-256-Digest: 9KD4iW3reGx1rKweiM0s4Bb/QRy/3GXmkesGIkWIgzk=
+
+Name: lunar-lander-strings_tk.xml
+SHA-256-Digest: d+kHxShjmV0Uu4d8UL6FNajQGOWYTeW8U3yNBxjvQT4=
+
+Name: lunar-lander-strings_in.xml
+SHA-256-Digest: mtFBv0B6l4nZ+GpXoS+YoGbOWU1FuwNmhh6Jlq/eKkw=
+
+Name: flash-launcher/contrib-licenses/license-info.txt
+SHA-256-Digest: 3wwyEN2M0JDMMI9BqotN038/yiAeTtrYb7yU9cBylvQ=
+
+Name: edu/colorado/phet/flashlauncher/FlashHTML.class
+SHA-256-Digest: g6Sz4OHq2aYpMJMzJoj5vxRTuY0tHyQ/n2HSpUznzJA=
+
+Name: common-strings_es_CO.xml
+SHA-256-Digest: dfeAVpKXr0y1H/5mxZNqdqjuAHK7zWfDuxtciuBykPs=
+
+Name: common-strings_zh_CN.xml
+SHA-256-Digest: 830ArJc6npgiKm+VS3P3yhHkuHaJp+eYDsT4DAllR80=
+
+Name: lunar-lander-strings_it.xml
+SHA-256-Digest: PZF0M6lUj41FM9ZH+gnc6AYtlNyLCc7Pu6JMOFhR3wc=
+
+Name: common-strings_vi.xml
+SHA-256-Digest: 9wNPdktdsp5NZd9kT9vxDmIjub+BMtXSwzW7qtVDP4Y=
+
+Name: common-strings_el.xml
+SHA-256-Digest: /PeFJkgQ6lpWnmVyEvYakVVuArIZluqWW9Ns3o6urac=
+
+Name: common-strings_hr.xml
+SHA-256-Digest: rTXlgtdNT/PZgSsW0EU+I5+uOPRnm94ZJGG5ibE1dJ4=
+
+Name: lunar-lander-strings_hr.xml
+SHA-256-Digest: KbByGxmHU5TpdhTsCFthJwTPYsl8G4GY3gD2TOkRHzc=
+
+Name: lunar-lander-strings_da.xml
+SHA-256-Digest: kM0QgaF+4llQnM3pH45Ef4foQhFcil7CEbsmFMZ+OAY=
+
+Name: common-strings_tr.xml
+SHA-256-Digest: 9HDfCUILexflkATn/u7JTouLF4uflpkOEGsBJRliyMQ=
+
+Name: lunar-lander-strings_et.xml
+SHA-256-Digest: CeusrZD3Ug4JWjvLp2bIk8dZaT3fkZIg/Ajf1WikDX8=
+
+Name: lunar-lander-strings_zh_CN.xml
+SHA-256-Digest: AfCGX2p2qe1oEqn9AlXTgIotRbDt8eSiqOp6EM4zwks=
+
+Name: lunar-lander-strings_gl.xml
+SHA-256-Digest: xVPtUfdSkTzLtw1YSU6WHX8aB5z96ANjWtwOykd5l2g=
+
+Name: lunar-lander-strings_sk.xml
+SHA-256-Digest: QZmJSFiM9h5DMid1LoKwEge+RnHlV2UqJ1Od29tTRdE=
+
+Name: lunar-lander-strings_mk.xml
+SHA-256-Digest: vatx2vGETlz5Ts6GS0vi+wfz80BGPI2C6KqjKq9F204=
+
+Name: get_flash.jpg
+SHA-256-Digest: VEdQQFhpeP8AKZuOOHreX9lHOEQWo80Jzds77kzSJ9Q=
+
+Name: common-strings_ro.xml
+SHA-256-Digest: Ua3LeTDU0+RUMcqu1S0qsFoHcNZGFIIzaQszcQxqYuY=
+
+Name: edu/colorado/phet/flashlauncher/FlashLauncher.class
+SHA-256-Digest: Vfry1gqpwMquwmyOUgUsir0byy7/eqnodlv7bN90q/0=
+

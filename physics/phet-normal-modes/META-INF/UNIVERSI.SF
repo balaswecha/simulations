@@ -1,0 +1,249 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: EEERfw+sLQZC2jzMcoWBu/My/2tEa
+ uYGA1iItZwGrKk=
+SHA-256-Digest-Manifest: EA7v7+nGWmj4ZI6wEUyInnhwUpxi2mlITeIxOODfS/U=
+Created-By: 1.7.0_51 (Oracle Corporation)
+
+Name: common-strings_pt_BR.xml
+SHA-256-Digest: VpK8Ho6xshdqEvQIKAiyPKIMI4poOaG/lji0jJKvkcs=
+
+Name: common-strings_fi.xml
+SHA-256-Digest: cBYgUFhmYJQUmjHSBUqM6pmj7YBwpdxPSkPMkjl4x58=
+
+Name: common-strings_ru.xml
+SHA-256-Digest: ao01/qR6iAzauHv/iFc0ObOgvtJ1DD0LPXywcckRgAg=
+
+Name: normal-modes-strings_ko.xml
+SHA-256-Digest: Bsd05IPsh/AeP2K3coR/ds//+23/dqXEyl/gpA8ubVo=
+
+Name: normal-modes-strings_zh_TW.xml
+SHA-256-Digest: 9fiffeyjyVC2Dmr5cWMGm3hrm83OkxvMD1FmhgdN1W4=
+
+Name: normal-modes-strings_de.xml
+SHA-256-Digest: ubUVJCSpbKOhng9NUuMvKwW3K2R6bhShBZmvBTWKSSY=
+
+Name: normal-modes-strings_gl.xml
+SHA-256-Digest: ZdGWPks3ISBSold0PvkhszxKilsg1QbIAnRJDzCc6lQ=
+
+Name: normal-modes-strings_da.xml
+SHA-256-Digest: URIATZQTelYUaK0PXPN+aRmbNZx3cvfI7aYo4VnqAFQ=
+
+Name: common-strings_ar.xml
+SHA-256-Digest: ccg2ax/ZuPMTUnyO6fl/qy53JAiTInvumpBEALnaIEc=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser$Annotation
+ .class
+SHA-256-Digest: 2AnvMBSXDuL4QAUYXujDTIJPEzDVNCP1qI3ZSpJI/fY=
+
+Name: common-strings_tk.xml
+SHA-256-Digest: 13xaHNadUKOnBSLbAMFn1sphDDcyVPK0RfsIxuG5+eQ=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$LocalBas
+ icService.class
+SHA-256-Digest: yeGQE+ZAeXgx/ICJk7g4WLN/dpNIWQ3UhOJQUd/jRP4=
+
+Name: common-strings_ka.xml
+SHA-256-Digest: cLNaVmFpwUgBqlYOXqliVTleAHfZrc4FKiEDP6l96kA=
+
+Name: common-strings_sr.xml
+SHA-256-Digest: RULLgQ0g+XayLTZYNBKZor+ziSExE+xu3IDWuNxiPQM=
+
+Name: normal-modes-strings_es_PE.xml
+SHA-256-Digest: 178YUK6h7EJjHGadFNSLz9GGP2LhBdvOFDuTOw6HKC4=
+
+Name: edu/colorado/phet/flashlauncher/util/SimulationProperties.class
+SHA-256-Digest: w+CMPhMQTGbd54QYk4okbbpGNDvcD4zf2NX2kZtUZcs=
+
+Name: edu/colorado/phet/flashlauncher/util/XMLUtils.class
+SHA-256-Digest: MVLt7bvw1Q8drVCR5d7+avzuDpbSwDdzgYOm7YNFDuM=
+
+Name: image002.gif
+SHA-256-Digest: r4jRfT23B0pCgWqE5nlSZyHiBOXWUQH9z3xRAhhR/gY=
+
+Name: software-agreement.htm
+SHA-256-Digest: 7VOIUyYexRyKmzojpzmVCEXsuutCxIlTibQqSjfyOJU=
+
+Name: simulation.properties
+SHA-256-Digest: oLrbjwLVyNTfGa6eimlPYUcz8DXxCgJL6oSbbP1hs3k=
+
+Name: common-strings_ko.xml
+SHA-256-Digest: Rb/FIzL1/g67oaWamtT5Aq2vSjth4IYp2aP/3JWYA+I=
+
+Name: normal-modes-strings_hu.xml
+SHA-256-Digest: dhUK60CnA7W8+aZ8jQKp+bzPNb/u0k2NVvcy1t7mfcM=
+
+Name: common-strings_sk.xml
+SHA-256-Digest: dk4kTqqjvohjS+3HPHWG78YuDpXRnvQObeJs92CP7Bg=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser.class
+SHA-256-Digest: v3stEpvMSI3OD4ADd3/970vrle8CwmpkIiy8DPF5qfg=
+
+Name: normal-modes-strings_tk.xml
+SHA-256-Digest: HLhfK2xgV49QSVw3jh7T9ZKQsszdLa0uDihueR7EilM=
+
+Name: normal-modes-strings_iw.xml
+SHA-256-Digest: OkDlGbG2CBqCXGpk7cgwf2Uj2hFv889n+/ZfqmFQjbQ=
+
+Name: common-strings_pt.xml
+SHA-256-Digest: OpKH/9L2u2fe4hKc146nI+AuoCre1wV+Zpb8mewpXQg=
+
+Name: flash-template.html
+SHA-256-Digest: THSJW2/tHnTRpKijgKTH9BEWXOwRy68LCm1LwigSjrU=
+
+Name: common-strings_it.xml
+SHA-256-Digest: z1lsYpB0Ws91B4ROTsG8vI/JSWpL3Qobwv2rrUvjFOU=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils.class
+SHA-256-Digest: aTqsYHKZalIK8OR0oAUJj3Ge82MdkOjrzQC+DLcy6jo=
+
+Name: common-strings_hu.xml
+SHA-256-Digest: EKbHpNP+jSfuWJPiPWuHfhXgXZofDIi6WsL6V1neh0Q=
+
+Name: common-strings_ar_SA.xml
+SHA-256-Digest: 3ZTqTjlvgATHGt4nDFN6S62n2O69TylFJgA3Ru2mtMA=
+
+Name: common-strings_lv.xml
+SHA-256-Digest: Jn4kK+y1S6ydIqck0EDWrneeCcmEZgr/jB8WlEAkptE=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$1.class
+SHA-256-Digest: FUpvPsCbhULyS9IbqGI+SdQ3QPmoWNfaq8/BJ4Oj4yo=
+
+Name: common-strings_iw.xml
+SHA-256-Digest: 0mu77punkXlDWmUFbPrdNQboB22nUMpiLEhOgvRhhu8=
+
+Name: common-strings_nb.xml
+SHA-256-Digest: IJPCrf4yQ6GBuaY4yD49tnbS4KkbtwFjJSwkGqYBDfI=
+
+Name: normal-modes-strings_pt_BR.xml
+SHA-256-Digest: M2d/zw7AsdGjEMrjSCssNl8LxLA4y2jQTddYEuXe1vM=
+
+Name: image001.gif
+SHA-256-Digest: lNFlqYQ1nXyVNjJkYYGdxRl6wtIa8exU03+pC88LkaI=
+
+Name: common-strings_mk.xml
+SHA-256-Digest: ozYwC+RoAzJ5ko0g+lCBapVjRXEK1kZCiEoyqDTOcXw=
+
+Name: software-agreement.properties
+SHA-256-Digest: f5IQD0VOuBdR76bSyG9FnMvNaYiApyeQ3vc0D9GCVUM=
+
+Name: normal-modes-strings_bs.xml
+SHA-256-Digest: KYXDLN2UV/ufv/WBxFlAxcpyDZI31Oi+VjoRr75XL+g=
+
+Name: common-strings_zh_TW.xml
+SHA-256-Digest: MzKxOOrTNVVPr8BQHP4SEXaPjmRsaABIs09OxMOyp0E=
+
+Name: normal-modes-strings_it.xml
+SHA-256-Digest: QjWvL5se2YrI45LJc6WQBgsOBN6/j3D/5F6p4/R30xg=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$2.class
+SHA-256-Digest: KKRcfFnaj69FFwsVz9sP79iihBGEmRkTYA3bjcAWQY0=
+
+Name: normal-modes-strings_eu.xml
+SHA-256-Digest: +qQ0t9RmQcklJ9hLrjW9prnWA+jo7mFaHprWtmmCYHU=
+
+Name: common-strings_es.xml
+SHA-256-Digest: GSnjyBM4/zpvD07hUEM6/UVZePrVAFbMxAwFQlfWrrc=
+
+Name: normal-modes.swf
+SHA-256-Digest: LmLFTXUoNyCfQkDw4V3kE2UA5eLYQWsIQSxlpbxoPrM=
+
+Name: normal-modes.properties
+SHA-256-Digest: E8hyRcPyRwyaEupLh8UkLH4gl0T3974cgCpB7xrLwRU=
+
+Name: normal-modes-strings_fr.xml
+SHA-256-Digest: bl8dfmed3b+cwu+o9c9/yIKHxoVW+SkOiA5fUjZEPBY=
+
+Name: normal-modes-strings_pl.xml
+SHA-256-Digest: YrGXa49LWzCG4GQtGkodPFcm/Zu17BB7WXuTFUpcscg=
+
+Name: normal-modes-strings_fa.xml
+SHA-256-Digest: mVLWPVSUJIJ2FalDFcRvzGInPO7WOjf5gbPLJDCB51E=
+
+Name: normal-modes-strings_sr.xml
+SHA-256-Digest: K5/szna2wcVi6T3MUaasfD3a2pWR3AWgn778rbHGZH0=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils$1.class
+SHA-256-Digest: UanTpG+ezIkurR33fZw0slABgXD111JuR8pGqCrRraM=
+
+Name: common-strings_eu.xml
+SHA-256-Digest: /znZkQdL6/SC1sLhMkQ56GS8KIOiK/taOBAWWnJvjyw=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker.class
+SHA-256-Digest: YGAL2o9oK1mPi1E7OtvCUu+VHO4ZaNqf8EQvEYkixOs=
+
+Name: normal-modes-strings_ja.xml
+SHA-256-Digest: UttG5Kc3M8Nqz6CH4QRpgZhhNnVoqOSYo1i1UHRMaD8=
+
+Name: normal-modes-strings_vi.xml
+SHA-256-Digest: YpN4Zm5vhF8W/HQMTOXp+XI9Uhrbz87XOuJCWfGB5o4=
+
+Name: common-strings_en.xml
+SHA-256-Digest: eYX+oPP2SaSDRL9MCGACDbrchnEXlKJ/Ns8grj0Ibmo=
+
+Name: normal-modes-strings_zh_CN.xml
+SHA-256-Digest: qCqrYvcW630kmPv4NENjSboRVFRu4WksFlnN8+rJSlU=
+
+Name: common-strings_sl.xml
+SHA-256-Digest: +6y6Hc/XSwBZdW7ns6lnkV20BCLTrsRv2aau8LtRWt0=
+
+Name: common-strings_fr.xml
+SHA-256-Digest: FHidHmdMDusIXVV9f6esLD3N0Tk+NXGzCk67eI85+a4=
+
+Name: normal-modes-strings_kk.xml
+SHA-256-Digest: jvRLWW67hP4ZZa2qTPUEjj6WSUvVhVMzSRbS+S1iSZI=
+
+Name: normal-modes-strings_kn.xml
+SHA-256-Digest: n0ACmNujIj8y3PDr6aeAj7Zqs7M8/wqdsS/UJwjHOqM=
+
+Name: credits.txt
+SHA-256-Digest: 143UIAo7Y+2QJtJSylgi4KQgaPmtA9+HQguMFuPj4y0=
+
+Name: edu/colorado/phet/flashlauncher/util/BareBonesBrowserLaunch.clas
+ s
+SHA-256-Digest: xuq/EAE76JfyJx1GYos5jpXeBGXmtKa1vqzCnza/xh4=
+
+Name: flash-launcher/contrib-licenses/license-info.txt
+SHA-256-Digest: WWNNB+ebw/iu/5CgTuoh5A+OG9RY3yWq3rrXzOo+Umw=
+
+Name: common-strings_zh_CN.xml
+SHA-256-Digest: 5Trg69UNuvg4AIqRytk5akWnHqXy/1wurpoklYe6adw=
+
+Name: common-strings_es_CO.xml
+SHA-256-Digest: I5i5Ayrr0GEqE/xijGG80270APKMx2EkNH6Fv0W4s94=
+
+Name: edu/colorado/phet/flashlauncher/FlashHTML.class
+SHA-256-Digest: 5jG+FdNWhFS4CptStT7/6Yq7BKzF+E3mIsPzGBy++BE=
+
+Name: common-strings_vi.xml
+SHA-256-Digest: wFf6UVxZ1kqojYZdLhfmqeb5FRGnUebknP1G69nLaq0=
+
+Name: common-strings_hr.xml
+SHA-256-Digest: A7Gjy8gdiFZ71CEUkUQI3x7wjkljwrA6XZnmhSDYqw8=
+
+Name: common-strings_el.xml
+SHA-256-Digest: e5JE1cEZIvwIbdGcV2nT9WLL+3Dnjr9qUaB5AHiklIA=
+
+Name: normal-modes-strings_en.xml
+SHA-256-Digest: R8z1nun6nxm0uj3cD/31gZY3tAD8sSo/N8MqvNsf+yw=
+
+Name: common-strings_tr.xml
+SHA-256-Digest: +jY49g7u56OTuq+TSey8nC4NUkqL6U+Qbkti01ngFU0=
+
+Name: normal-modes-strings_es.xml
+SHA-256-Digest: DVEsNFjfaw9HP4s7PONXz2QtRym20H6TY47S8YT8OqQ=
+
+Name: normal-modes-strings_in.xml
+SHA-256-Digest: DFLwshuVF9QJG27+0ldvw3HY86411IICE1fa9+cGzdA=
+
+Name: normal-modes-strings_mk.xml
+SHA-256-Digest: bd5wGjbRAnYP1c5Riir6hyO04dHpE3LBZzxE4y+cgxw=
+
+Name: get_flash.jpg
+SHA-256-Digest: PTqgQuxC7Sa4dNpAhF7qLZFplqJIrr4h2jtCHg2U0+w=
+
+Name: common-strings_ro.xml
+SHA-256-Digest: oVkViB1W/qDYH5lB3pv8TR9g6H+c+BCWY+9WvFLa9YU=
+
+Name: edu/colorado/phet/flashlauncher/FlashLauncher.class
+SHA-256-Digest: dYfxsJaCeHDZCkkHwBuS61clBQAQ6dtSktQajL64I0M=
+

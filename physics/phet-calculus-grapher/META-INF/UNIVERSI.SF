@@ -1,0 +1,273 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: EEERfw+sLQZC2jzMcoWBu/My/2tEa
+ uYGA1iItZwGrKk=
+SHA-256-Digest-Manifest: 3tAsnjGBFWUwrRMvRnZyRHN4m2Uo7ebVNwehrQ7GsgU=
+Created-By: 1.7.0_75 (Oracle Corporation)
+
+Name: common-strings_pt_BR.xml
+SHA-256-Digest: VpK8Ho6xshdqEvQIKAiyPKIMI4poOaG/lji0jJKvkcs=
+
+Name: calculus-grapher-strings_tk.xml
+SHA-256-Digest: aXa8NryR2dG5y4ggguczM+8pWAdg3SW+Muew2R4KAdE=
+
+Name: common-strings_fi.xml
+SHA-256-Digest: cBYgUFhmYJQUmjHSBUqM6pmj7YBwpdxPSkPMkjl4x58=
+
+Name: common-strings_ru.xml
+SHA-256-Digest: ao01/qR6iAzauHv/iFc0ObOgvtJ1DD0LPXywcckRgAg=
+
+Name: calculus-grapher-strings_et.xml
+SHA-256-Digest: eDha6wvZrZvXhu6Jvb6b1ly+kjht6XGt6x2KiLlGrJ8=
+
+Name: calculus-grapher-strings_ar_SA.xml
+SHA-256-Digest: KDi9wcTwGIVFFAk9nMm9G8O+WwPDZyS92/E3feiDG0s=
+
+Name: calculus-grapher-strings_bs.xml
+SHA-256-Digest: IUB3hBe+NqfXDJPRmEFp6hjw0VM6JYihkXU+5C7griY=
+
+Name: common-strings_ar.xml
+SHA-256-Digest: ccg2ax/ZuPMTUnyO6fl/qy53JAiTInvumpBEALnaIEc=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser$Annotation
+ .class
+SHA-256-Digest: 2AnvMBSXDuL4QAUYXujDTIJPEzDVNCP1qI3ZSpJI/fY=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$LocalBas
+ icService.class
+SHA-256-Digest: yeGQE+ZAeXgx/ICJk7g4WLN/dpNIWQ3UhOJQUd/jRP4=
+
+Name: common-strings_ka.xml
+SHA-256-Digest: cLNaVmFpwUgBqlYOXqliVTleAHfZrc4FKiEDP6l96kA=
+
+Name: common-strings_sr.xml
+SHA-256-Digest: RULLgQ0g+XayLTZYNBKZor+ziSExE+xu3IDWuNxiPQM=
+
+Name: calculus-grapher-strings_el.xml
+SHA-256-Digest: iGIwx3+KLjMoPg0rck9jm6VuYjUxDoelzdEJQT87Cok=
+
+Name: calculus-grapher-strings_iw.xml
+SHA-256-Digest: FcVyVtqenVKwPwnCX95P8+KwwpRKQ6Aa+v8H+SemgWk=
+
+Name: calculus-grapher-strings_nb.xml
+SHA-256-Digest: Xw8vuBCCHW9GD2YLdnqW9cikX4vzreMLrKZLF/Rtkq4=
+
+Name: calculus-grapher-strings_ja.xml
+SHA-256-Digest: BPvhGXJf5sgsj23+AGg5/qYtEB/Cu8x+T9pUE69YqHU=
+
+Name: calculus-grapher-strings_es_CO.xml
+SHA-256-Digest: GoAiTQgk4/rMMcPf85+ONKFcaCtuLjFDR3Q17e1l1R8=
+
+Name: edu/colorado/phet/flashlauncher/util/SimulationProperties.class
+SHA-256-Digest: w+CMPhMQTGbd54QYk4okbbpGNDvcD4zf2NX2kZtUZcs=
+
+Name: calculus-grapher-strings_da.xml
+SHA-256-Digest: O11AOHh+tk2wWQc7Np9WP5QL5N2LUdDK0wRRlTxOLlM=
+
+Name: edu/colorado/phet/flashlauncher/util/XMLUtils.class
+SHA-256-Digest: Gk3Y+wpq4zzpx+wTpQMvSrnJbFd0TXltXUfEy+km49I=
+
+Name: image002.gif
+SHA-256-Digest: r4jRfT23B0pCgWqE5nlSZyHiBOXWUQH9z3xRAhhR/gY=
+
+Name: software-agreement.htm
+SHA-256-Digest: 7VOIUyYexRyKmzojpzmVCEXsuutCxIlTibQqSjfyOJU=
+
+Name: simulation.properties
+SHA-256-Digest: EtZidkFKTS9S3LSzFTjrPhcfcaJfhRrggD00uhrD9Bs=
+
+Name: common-strings_ko.xml
+SHA-256-Digest: Rb/FIzL1/g67oaWamtT5Aq2vSjth4IYp2aP/3JWYA+I=
+
+Name: calculus-grapher-strings_vi.xml
+SHA-256-Digest: FrlOHvw4gsSxwC7C9N9V/DeL4fwIz3yuABs6x+kC8J0=
+
+Name: calculus-grapher-strings_de.xml
+SHA-256-Digest: k/bh7L59Wn5BNB/8RobxJ8UTnaSGw8lXamUzUOO7QtY=
+
+Name: calculus-grapher-strings_hu.xml
+SHA-256-Digest: v1KQxGio0ghzxNoHzfB5ElZugP8b8xzV1k/qu3IUvH4=
+
+Name: common-strings_sk.xml
+SHA-256-Digest: LqiB8fHheQO8zcvFi2mwkHupTzCneI6ti8eD7x+q1nk=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser.class
+SHA-256-Digest: 5rh0mHlY5nGGfsgq6wL1sa6RAMuG+xwn+gOSDVE+V9M=
+
+Name: calculus-grapher.swf
+SHA-256-Digest: wn/7PE0iklT5iaBL4D7ARP279E7X8C5c7x693pNMcxs=
+
+Name: common-strings_pt.xml
+SHA-256-Digest: OpKH/9L2u2fe4hKc146nI+AuoCre1wV+Zpb8mewpXQg=
+
+Name: flash-template.html
+SHA-256-Digest: THSJW2/tHnTRpKijgKTH9BEWXOwRy68LCm1LwigSjrU=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils.class
+SHA-256-Digest: NhsLb1LEqhw8KRKZZy+bOsE6UZkrb3Epebc5T1bTfhg=
+
+Name: common-strings_hu.xml
+SHA-256-Digest: EKbHpNP+jSfuWJPiPWuHfhXgXZofDIi6WsL6V1neh0Q=
+
+Name: common-strings_ar_SA.xml
+SHA-256-Digest: 3ZTqTjlvgATHGt4nDFN6S62n2O69TylFJgA3Ru2mtMA=
+
+Name: common-strings_lv.xml
+SHA-256-Digest: Jn4kK+y1S6ydIqck0EDWrneeCcmEZgr/jB8WlEAkptE=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$1.class
+SHA-256-Digest: FUpvPsCbhULyS9IbqGI+SdQ3QPmoWNfaq8/BJ4Oj4yo=
+
+Name: calculus-grapher-strings_mk.xml
+SHA-256-Digest: ukPToEFAeZzKO4FEptHa59MFEDhrCbqqd0NOC/ugnj8=
+
+Name: common-strings_iw.xml
+SHA-256-Digest: 0mu77punkXlDWmUFbPrdNQboB22nUMpiLEhOgvRhhu8=
+
+Name: common-strings_nb.xml
+SHA-256-Digest: IJPCrf4yQ6GBuaY4yD49tnbS4KkbtwFjJSwkGqYBDfI=
+
+Name: image001.gif
+SHA-256-Digest: lNFlqYQ1nXyVNjJkYYGdxRl6wtIa8exU03+pC88LkaI=
+
+Name: common-strings_mk.xml
+SHA-256-Digest: ozYwC+RoAzJ5ko0g+lCBapVjRXEK1kZCiEoyqDTOcXw=
+
+Name: software-agreement.properties
+SHA-256-Digest: f5IQD0VOuBdR76bSyG9FnMvNaYiApyeQ3vc0D9GCVUM=
+
+Name: calculus-grapher-strings_in.xml
+SHA-256-Digest: VtlEa5kHeSIuJ5lBeiuRGSwn7gr7N9ZkKcIb7p+oVfI=
+
+Name: common-strings_zh_TW.xml
+SHA-256-Digest: MzKxOOrTNVVPr8BQHP4SEXaPjmRsaABIs09OxMOyp0E=
+
+Name: calculus-grapher-strings_sr.xml
+SHA-256-Digest: gxd/3oIJ5e6Nf0EFMH2bk6s9H62hGxupAeOLZgtkDrs=
+
+Name: calculus-grapher-strings_pl.xml
+SHA-256-Digest: UhCZ19zByoCxA5FKDlbnwArurCOOKAFK8c8FgMp09Ig=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$2.class
+SHA-256-Digest: KKRcfFnaj69FFwsVz9sP79iihBGEmRkTYA3bjcAWQY0=
+
+Name: common-strings_es.xml
+SHA-256-Digest: GSnjyBM4/zpvD07hUEM6/UVZePrVAFbMxAwFQlfWrrc=
+
+Name: calculus-grapher-strings_lv.xml
+SHA-256-Digest: NC1io5jT2921PSYuO6N1FNuN5Z82XPNyvfGkvFPVJmo=
+
+Name: calculus-grapher-strings_zh_TW.xml
+SHA-256-Digest: 32FJqFJM3HL/fUFn40XcQxevDW73oyV32mBPM/Sl/3k=
+
+Name: calculus-grapher-strings_sk.xml
+SHA-256-Digest: F66wQ0BMz3T+JLHvqu5p3L1FP4oYuBw8BHBA6aT8Jng=
+
+Name: calculus-grapher-strings_tr.xml
+SHA-256-Digest: kj94Nh+8nnZcpmw/mxQ9O2anUGkVMZMaSNp8lko5jnU=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils$1.class
+SHA-256-Digest: UanTpG+ezIkurR33fZw0slABgXD111JuR8pGqCrRraM=
+
+Name: calculus-grapher-strings_eu.xml
+SHA-256-Digest: YGavgaG6O/fOaD0HLewePYs+z/K7wJtCOdxa+93/HxA=
+
+Name: common-strings_eu.xml
+SHA-256-Digest: /znZkQdL6/SC1sLhMkQ56GS8KIOiK/taOBAWWnJvjyw=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker.class
+SHA-256-Digest: YGAL2o9oK1mPi1E7OtvCUu+VHO4ZaNqf8EQvEYkixOs=
+
+Name: calculus-grapher-strings_fa.xml
+SHA-256-Digest: YNCJnuVOO5o8d201vsp28rATwh78MuwaEa14Q3SbT64=
+
+Name: calculus-grapher-strings_fr.xml
+SHA-256-Digest: Ybo1RiuNBcwcWRfUVdBJTflgANCQcd9t2W9sPdToyko=
+
+Name: common-strings_en.xml
+SHA-256-Digest: eYX+oPP2SaSDRL9MCGACDbrchnEXlKJ/Ns8grj0Ibmo=
+
+Name: common-strings_sl.xml
+SHA-256-Digest: +6y6Hc/XSwBZdW7ns6lnkV20BCLTrsRv2aau8LtRWt0=
+
+Name: common-strings_fr.xml
+SHA-256-Digest: elYoJKd2TN/RaQB73amP6R7zf3mxCFFOqixWUTghCTI=
+
+Name: calculus-grapher-strings_ko.xml
+SHA-256-Digest: yXaso9lOycDZYlObMrvcjXDnizsjf63/tWPzN3dUw68=
+
+Name: credits.txt
+SHA-256-Digest: XOboyEJHg/PRgqGgfulAO9rQQFaEQ4y0Q+fIFhfnZhE=
+
+Name: calculus-grapher-strings_es.xml
+SHA-256-Digest: UGFoYef2YPKDERIWJDe2Pj4nSMErjV1CyHo2E5oi6cM=
+
+Name: edu/colorado/phet/flashlauncher/util/BareBonesBrowserLaunch.clas
+ s
+SHA-256-Digest: xuq/EAE76JfyJx1GYos5jpXeBGXmtKa1vqzCnza/xh4=
+
+Name: calculus-grapher-strings_it.xml
+SHA-256-Digest: 3F20io6i3BMYPzu/3bTPAtA5JMu7HdwAIi8tCFdUgG4=
+
+Name: calculus-grapher-strings_nl.xml
+SHA-256-Digest: NlIk8TBKL3qz/yBAHdul9XsplumYPUVnP2yqBII/g8k=
+
+Name: flash-launcher/contrib-licenses/license-info.txt
+SHA-256-Digest: HteL+fyYBlVZaSaq6nPHm7oaqCErh4KKN42vva7uOBw=
+
+Name: calculus-grapher-strings_en.xml
+SHA-256-Digest: XTkM0pgi8PkJ9ay8JlC1umeQu+W4AHycQNITrX7Vp7I=
+
+Name: calculus-grapher-strings_zh_CN.xml
+SHA-256-Digest: r3S4+f+twBonHmdZn3dkLmFoJuY7+HXDBT+vaSa7E6U=
+
+Name: calculus-grapher-strings_sv.xml
+SHA-256-Digest: wsxL5lZmYfI9MxauN5BpLjBMjDcGSdhvRHSDPbcYWpc=
+
+Name: calculus-grapher.properties
+SHA-256-Digest: OeobdvIx88hm2joruNSNuEJG3KUlYs0T9Y/QnGlJrBw=
+
+Name: common-strings_zh_CN.xml
+SHA-256-Digest: 5Trg69UNuvg4AIqRytk5akWnHqXy/1wurpoklYe6adw=
+
+Name: common-strings_es_CO.xml
+SHA-256-Digest: I5i5Ayrr0GEqE/xijGG80270APKMx2EkNH6Fv0W4s94=
+
+Name: edu/colorado/phet/flashlauncher/FlashHTML.class
+SHA-256-Digest: Z5zcyFhgMnvAuWCzkdvyWfKwEbg8/g59ylX26R2iebA=
+
+Name: common-strings_vi.xml
+SHA-256-Digest: wFf6UVxZ1kqojYZdLhfmqeb5FRGnUebknP1G69nLaq0=
+
+Name: common-strings_hr.xml
+SHA-256-Digest: A7Gjy8gdiFZ71CEUkUQI3x7wjkljwrA6XZnmhSDYqw8=
+
+Name: common-strings_el.xml
+SHA-256-Digest: e5JE1cEZIvwIbdGcV2nT9WLL+3Dnjr9qUaB5AHiklIA=
+
+Name: common-strings_tr.xml
+SHA-256-Digest: +jY49g7u56OTuq+TSey8nC4NUkqL6U+Qbkti01ngFU0=
+
+Name: calculus-grapher-strings_es_PE.xml
+SHA-256-Digest: D1fxqXLYUJY6k+WphCbO9D2PrtssoOQeDh5VEB4OPYQ=
+
+Name: calculus-grapher-strings_ar.xml
+SHA-256-Digest: WG1hxL4KwAWw87jRiIOQf7UVca0A+0U4Db61q6cSMT0=
+
+Name: calculus-grapher-strings_pt_BR.xml
+SHA-256-Digest: QZWKe2neT0fcDplNcuZY9v9Vzl/B0O/x7tV0ooA2J3A=
+
+Name: calculus-grapher-strings_kk.xml
+SHA-256-Digest: 5XoyPcrFWTrybsGBHjgbH/UmQtIe8DjLihrITVyySe0=
+
+Name: get_flash.jpg
+SHA-256-Digest: PTqgQuxC7Sa4dNpAhF7qLZFplqJIrr4h2jtCHg2U0+w=
+
+Name: calculus-grapher-strings_cs.xml
+SHA-256-Digest: y2kFVM2ZAYdzWcXD+gtzpGoRvXxgwDaHSmiNSjrjE2c=
+
+Name: common-strings_ro.xml
+SHA-256-Digest: oVkViB1W/qDYH5lB3pv8TR9g6H+c+BCWY+9WvFLa9YU=
+
+Name: edu/colorado/phet/flashlauncher/FlashLauncher.class
+SHA-256-Digest: dYfxsJaCeHDZCkkHwBuS61clBQAQ6dtSktQajL64I0M=
+

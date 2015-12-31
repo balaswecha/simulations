@@ -1,0 +1,305 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.0
+Application-Name: PhET Simulation
+Permissions: sandbox
+Created-By: 20.45-b01 (Sun Microsystems Inc.)
+Main-Class: edu.colorado.phet.flashlauncher.FlashLauncher
+Codebase: *
+
+Name: common-strings_pt_BR.xml
+SHA-256-Digest: WVDzjDyk14M9vBy1V2ML1/mnyha0N6U7Zhswqfe7mwk=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser$Annotation
+ .class
+SHA-256-Digest: EdoplQ0d81UMByP2boL3ZzzZudPwTrbD9p1RYFTGOz0=
+
+Name: common-strings_tk.xml
+SHA-256-Digest: 7vI4xXAGVpXj5Lw0EIbSXfJi/DEhjFfFobUsaCrEldk=
+
+Name: common-strings_sr.xml
+SHA-256-Digest: skGhL5C+l8WisXhCRTUlVnKTg1aRFbhoGf55Qk8OaIY=
+
+Name: common-strings_ka.xml
+SHA-256-Digest: zCkjDnShotx3+uw9mOt6gB2dN/3HksE6vcs2ZU1q/XE=
+
+Name: collision-lab-strings_es.xml
+SHA-256-Digest: q/Lrq2DwTap4wmREeLNl0+9Pv5Zn0CTPMUrHhNOA754=
+
+Name: simulation.properties
+SHA-256-Digest: gt0t2WBwrH+zx00cd58yM41F1f+pSHK+3WmqObdGvnI=
+
+Name: image002.gif
+SHA-256-Digest: R4j47oBa4OVjeN3TKqQ8G/4KEWHkAbYCTe9+4eoUQTs=
+
+Name: common-strings_ko.xml
+SHA-256-Digest: 8BI7NOWTdz1OyU+1vPiCviCvXdeVBYGrOtGPRaPrYgs=
+
+Name: common-strings_sk.xml
+SHA-256-Digest: Lp9rg/Bx+aHepCNiwWtSz3d+IYs8N+1zYZryQhFpdYQ=
+
+Name: collision-lab-strings_fa.xml
+SHA-256-Digest: PRlVftny3cHV91RfgH5lS/XBDllSQy2UHnR7Zss5/NU=
+
+Name: collision-lab-strings_km.xml
+SHA-256-Digest: t9XfKvIPJ6aLxm84CuIyKJUrZWwFEXUARZ/Gx+HKovg=
+
+Name: collision-lab-strings_ko.xml
+SHA-256-Digest: 4ysRehwHk0q12x8TT7YsrDUcdSnSndcWRj4Cv0RqYR4=
+
+Name: common-strings_it.xml
+SHA-256-Digest: pDWWT7Ty37nZpC5gHMKsnzkMVkPLcNMicv8g0EpPg3s=
+
+Name: common-strings_hu.xml
+SHA-256-Digest: Un3rcNkcX8F4xQ+W8nwF28+7v+7IaqhyMouJDOayHUo=
+
+Name: collision-lab-strings_nb.xml
+SHA-256-Digest: UmlS7hvvsuTmTyXOoIC1hMGeygsWt+Sar7Wo6aGIGnY=
+
+Name: common-strings_ar_SA.xml
+SHA-256-Digest: XR5L/LwMRoCwb84FHu++CIhyngXTz49oPumu0OMNG3U=
+
+Name: collision-lab-strings_vi.xml
+SHA-256-Digest: 6WxiIezIqBKPnEFuCpg2AbKkiVDFOrpk6/WU2PYZvk8=
+
+Name: common-strings_lv.xml
+SHA-256-Digest: HcYhQhUT/qRADPXd/X1qCQlEkzRbbX5oOzqfs8Wwf3k=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$1.class
+SHA-256-Digest: gJ4iT+jtpb4uBvA1VKLIFWKRWPDZbNKqtwp85M01daQ=
+
+Name: collision-lab-strings_nl.xml
+SHA-256-Digest: SBGkZF2IowJIhYP0JmqaVX5+x8LiN/glaPdMLf2DQG8=
+
+Name: common-strings_iw.xml
+SHA-256-Digest: i7+A9Y06G6R+jux36CyWOMtH/ZROeyEOX/1ekt9wDv8=
+
+Name: image001.gif
+SHA-256-Digest: WCAwAMNBviNuwuFqwbXat6u7UL+C4aoHQIeoLTS8gGQ=
+
+Name: collision-lab-strings_da.xml
+SHA-256-Digest: pYUK4H+6US0p7aTuSgT9cSbIPXkxZ/cAzZg2lV2F19s=
+
+Name: collision-lab-strings_ja.xml
+SHA-256-Digest: X4EEHzm5JcDs52wdMNt+MS3TyFD4rcrtDt5ExnieoxE=
+
+Name: software-agreement.properties
+SHA-256-Digest: fNGCIOeebjnBUVezlOqAL8sDO1UGjpnRqrqDpQKmyOc=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$2.class
+SHA-256-Digest: TQYilRGfmCcAo0phzE3SwH8I6/pq1qI9JOHVhvoSj90=
+
+Name: collision-lab.swf
+SHA-256-Digest: 1YtTzAnuiDc/KN3qyEa6QPIJSqVT4WU0IxAK2StlZeE=
+
+Name: collision-lab-strings_ta.xml
+SHA-256-Digest: g9Hlw0c8ChLQbwLoTXzkytNU3Am74NTtEX2mPh/j+jY=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils$1.class
+SHA-256-Digest: DQ9T8PkcgNzt71PP7ez8XGy1rhVAUhmlDpX+9sKmBXY=
+
+Name: common-strings_eu.xml
+SHA-256-Digest: LZVL+UPBkB0cm2vWxxoLR1GVyoYJ+5cu9cx88wNYFr4=
+
+Name: common-strings_en.xml
+SHA-256-Digest: xdN6B4FRAPGJpo0VLDMDJMyW/T0jMrXs4kjsG17N9t4=
+
+Name: common-strings_sl.xml
+SHA-256-Digest: 9pzpj0zA/jfQurvhYWyCuYYUdUuBSvU3IAcK6BvaLjI=
+
+Name: collision-lab-strings_tk.xml
+SHA-256-Digest: 2n5NEyYnS9MCoFuNraCId9alszn9Ay3B/OT/g7pU684=
+
+Name: common-strings_fr.xml
+SHA-256-Digest: NiFWLg1YVYQT3hWWFZJaAXCYmsLrenyRhpg5dARKXlM=
+
+Name: credits.txt
+SHA-256-Digest: M9LBHDOHec8UN3jJV4VCKZ14DCohSbUOGjk8jbpgNu4=
+
+Name: collision-lab-strings_it.xml
+SHA-256-Digest: Uaf479qn0km1vqA4BEKAe+36b/wgZOS2Fu7zRS8qxRk=
+
+Name: collision-lab.properties
+SHA-256-Digest: jtMip6TegYqmo4PpvUFhcCsqG64PsxL4NuTGQEhxd3c=
+
+Name: collision-lab-strings_ar.xml
+SHA-256-Digest: EMcckzMcv3V54hKJS5e5+bdGQb0FKrn+C8Iw+26u5dY=
+
+Name: flash-launcher/contrib-licenses/license-info.txt
+SHA-256-Digest: 4bbgpYx4O6gRLQzCXLoNiY6XKysrwc1EJwPFoOsgtdI=
+
+Name: edu/colorado/phet/flashlauncher/FlashHTML.class
+SHA-256-Digest: IcRrCaX8em7QLNSkHtqyxfOvP88+KdpavMt3JIsVaGY=
+
+Name: common-strings_es_CO.xml
+SHA-256-Digest: dfeAVpKXr0y1H/5mxZNqdqjuAHK7zWfDuxtciuBykPs=
+
+Name: common-strings_zh_CN.xml
+SHA-256-Digest: 830ArJc6npgiKm+VS3P3yhHkuHaJp+eYDsT4DAllR80=
+
+Name: collision-lab-strings_es_PE.xml
+SHA-256-Digest: NR3l6Z67JIAd1QnHL4I27gBFr6EVMZ77ySdBpQ8JGG8=
+
+Name: common-strings_vi.xml
+SHA-256-Digest: 9wNPdktdsp5NZd9kT9vxDmIjub+BMtXSwzW7qtVDP4Y=
+
+Name: common-strings_el.xml
+SHA-256-Digest: /PeFJkgQ6lpWnmVyEvYakVVuArIZluqWW9Ns3o6urac=
+
+Name: collision-lab-strings_ru.xml
+SHA-256-Digest: QeylSC1pMfhyc7t5TQ5qJslkt6ML+t5RsKt18XAYdk8=
+
+Name: common-strings_tr.xml
+SHA-256-Digest: 9HDfCUILexflkATn/u7JTouLF4uflpkOEGsBJRliyMQ=
+
+Name: collision-lab-strings_bs.xml
+SHA-256-Digest: N87sDdUgVpx7Qyezk0PHjZC2DCxwteRA7a40s+l8p48=
+
+Name: collision-lab-strings_sr.xml
+SHA-256-Digest: iCrHCsRAxSGoFHg2FcKVEaU3FnGQVEGtR0jUVb6OFqo=
+
+Name: collision-lab-strings_hu.xml
+SHA-256-Digest: nLJo0E+Xtn6K9eTLwaI2W3gGfPJV7YQOrrMX4MPVPg0=
+
+Name: get_flash.jpg
+SHA-256-Digest: VEdQQFhpeP8AKZuOOHreX9lHOEQWo80Jzds77kzSJ9Q=
+
+Name: collision-lab-strings_pl.xml
+SHA-256-Digest: XRn8wqU9xh/Lsgskn86Oarg9o8YutzrkhbdaFr5A71I=
+
+Name: edu/colorado/phet/flashlauncher/FlashLauncher.class
+SHA-256-Digest: Vfry1gqpwMquwmyOUgUsir0byy7/eqnodlv7bN90q/0=
+
+Name: collision-lab-strings_cy.xml
+SHA-256-Digest: eAWfEnXsieE6hx8CJRwbDKsbJh/scYFtK0dKXIsgtE4=
+
+Name: collision-lab-strings_pt_BR.xml
+SHA-256-Digest: D6/iCe/fjFDjpPVG0Ba+UEHPZBdSbIq00KqlqlBD5TU=
+
+Name: collision-lab-strings_ms.xml
+SHA-256-Digest: +Qzn+jfb3LkhN9p1ExZSW4IK3xCap0ST6phpp5AVZiw=
+
+Name: collision-lab-strings_kn.xml
+SHA-256-Digest: vO/8y1jIujIQDuae2Un5RHSRYqCccp2ISRVOBABb4UI=
+
+Name: common-strings_fi.xml
+SHA-256-Digest: tXoFxP4I+hoIsfdyVaJfcNvnuZLfZSlRY7bi34nOmws=
+
+Name: common-strings_ru.xml
+SHA-256-Digest: PWUkAv+oyT7NX7N56H9Zx2dax3oBjQMb4HBRTEIx9oA=
+
+Name: common-strings_ar.xml
+SHA-256-Digest: ygG4z+lwYSPuEqB2grQXvxeBN3turMRQMNmzsrx+JBk=
+
+Name: collision-lab-strings_eu.xml
+SHA-256-Digest: wZ5nuD5j8mUtK6Bh9fRTl0E5oMR2+Uu/f5IIttpeOAk=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$LocalBas
+ icService.class
+SHA-256-Digest: 8tEsytBfTZ6avQ9vCzCya+r6HK2l//v6Jjn7geX7gS8=
+
+Name: collision-lab-strings_sv.xml
+SHA-256-Digest: H4tw2pcYeLK+dL8odgKhZY6NR0s6741fnAv8CHc8DYY=
+
+Name: edu/colorado/phet/flashlauncher/util/SimulationProperties.class
+SHA-256-Digest: esCnQqPOWW6UNKyHNNhly5qr1L8cF+cKg1U+nKm/3/Q=
+
+Name: edu/colorado/phet/flashlauncher/util/XMLUtils.class
+SHA-256-Digest: lv2xb3QTJw80LaCkWf5HRP/GkwXJJ1IfBmVA7HNeB8o=
+
+Name: software-agreement.htm
+SHA-256-Digest: JgsWb8+jcF/07qnLVqEAUquqt+dJLGb62K5vH4KYp0s=
+
+Name: collision-lab-strings_de.xml
+SHA-256-Digest: 9Ll9DcimDlyu97JqfdNQiTW/f9SE2FZgyKHaaA9wIww=
+
+Name: collision-lab-strings_en.xml
+SHA-256-Digest: LS1AknYfy6kYyJVD8wigLZPfDGtWecCa2Lgck4mZA8A=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser.class
+SHA-256-Digest: ikuyEO3WgCpINWs4525J2GbLh3k+0Hl0aNKFmJ7kYcc=
+
+Name: flash-template.html
+SHA-256-Digest: wCkpOyhdDplF6Lm0QuJumO83LsEK9JbPOnE2Ho7HYFU=
+
+Name: common-strings_pt.xml
+SHA-256-Digest: c/fW7j+iD5eTVoD1PN8sbp34YKow34jSBbfz9l90XmU=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils.class
+SHA-256-Digest: qXyjRrM88fokW2bA2il/cwBqNhy4QjqQIZUd2lX33iI=
+
+Name: collision-lab-strings_in.xml
+SHA-256-Digest: QQu3uUYGYZhhbFZc6k2odSUcjWBWP4YUi5jE3GUZX28=
+
+Name: collision-lab-strings_sk.xml
+SHA-256-Digest: OVRuLthtfgoNS+KuoEongPheDAXte/MBTIfmOUxv+ek=
+
+Name: collision-lab-strings_mk.xml
+SHA-256-Digest: 7NfOhqdq6NbKX0s+SzPCl50ogzbDQM4iM5wxRfU1E+c=
+
+Name: common-strings_mk.xml
+SHA-256-Digest: t4Chj4/jtwtcSeBNFYP+R7zEQ9Ox7aUYg5k7dpbEkB4=
+
+Name: common-strings_nb.xml
+SHA-256-Digest: eqvSEkJuvczv3xp1WFj2EKGtw0b/16jxW1hYJvazHOw=
+
+Name: collision-lab-strings_cs.xml
+SHA-256-Digest: 1Suy3K5UlSRNftwwBr/y8fYIcdwK0mZYMG0CvIrzbfs=
+
+Name: common-strings_zh_TW.xml
+SHA-256-Digest: 9WAi6VC1X/doAytD28jUB7KkJths+SD8FkuSrYsYuDw=
+
+Name: collision-lab-strings_fi.xml
+SHA-256-Digest: phvMxS6Fb+339pxZfQtGNeNX/WrjVjeom0/16B98D34=
+
+Name: common-strings_es.xml
+SHA-256-Digest: gIJu4i/i47EfBDeBPt/2YQusTCdMv8xMwX56TssmHDE=
+
+Name: collision-lab-strings_gl.xml
+SHA-256-Digest: Wzvzo1lhxipZvnfwl4D778NJEiGi57Sbrf8yNzSczao=
+
+Name: collision-lab-strings_th.xml
+SHA-256-Digest: lufMt6DST7V2NDCa4ZLrRLrqzlkHnkfO4OXhoer89ng=
+
+Name: collision-lab-strings_fr.xml
+SHA-256-Digest: gUY8L34Te+hpCNaCtgQNMMlCLmkbfBPg5MfAslZAh1M=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker.class
+SHA-256-Digest: 7ywCifOdGITV5YAG32RFiqxnWII5rNGWocFGL9hkmIs=
+
+Name: collision-lab-strings_mr.xml
+SHA-256-Digest: aLjzy78iK8cTfO2kObuQNsyogAbkaK2l3f+z9bWOssE=
+
+Name: collision-lab-strings_el.xml
+SHA-256-Digest: SNIKbC2JCSQxdXxeBjkIVTRQfOQLaZau4ypUf2ibz5I=
+
+Name: edu/colorado/phet/flashlauncher/util/BareBonesBrowserLaunch.clas
+ s
+SHA-256-Digest: aXMOjBNAz5C0O9QgOrICyU99CrCTEGgZtC686nLWx7Q=
+
+Name: collision-lab-strings_ku_TR.xml
+SHA-256-Digest: unv65G1HEzFe6xGWeyrZxEu0fl9QEr1Ex0tM0qevzwc=
+
+Name: collision-lab-strings_et.xml
+SHA-256-Digest: QMxC21lNn+AAU3Cx73gzWeRfPQdN3fuHAYSx7w/PZ1Y=
+
+Name: common-strings_hr.xml
+SHA-256-Digest: rTXlgtdNT/PZgSsW0EU+I5+uOPRnm94ZJGG5ibE1dJ4=
+
+Name: collision-lab-strings_tr.xml
+SHA-256-Digest: s68w1xOh0BKSF/LCm/TvR6fD9hRVT2JmsUordPO9Qhg=
+
+Name: collision-lab-strings_ht.xml
+SHA-256-Digest: yqeUKLSq1n5yiMdn2/LN8FbQwPI5kvMW0qLgVHFGYBU=
+
+Name: collision-lab-strings_iw.xml
+SHA-256-Digest: 8r+INYF3IwzIKCUfKDxn8LITq+P7CCJ/emdHybNXv5E=
+
+Name: collision-lab-strings_zh_TW.xml
+SHA-256-Digest: 6V/3oQMBQqr36hzj/Fa3N8IKSACqiqlpf/S0x6xB8Qk=
+
+Name: common-strings_ro.xml
+SHA-256-Digest: Ua3LeTDU0+RUMcqu1S0qsFoHcNZGFIIzaQszcQxqYuY=
+
+Name: collision-lab-strings_zh_CN.xml
+SHA-256-Digest: sxjqFWVB0v0XyLuqkiqZyro5BeoXUYdFgO8/VYfacVU=
+
